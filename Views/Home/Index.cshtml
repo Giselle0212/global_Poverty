@@ -24,9 +24,9 @@
         <div class="Card">
             <div class="CircleChart">
                 <div class="value-container">
-                    @* <p class="valueData">
+                    <p class="valueData">
                         XXX.XXX.XXX
-                    </p> *@
+                        </p>
                 </div>
             </div>
             <div>
@@ -61,12 +61,13 @@
                         <div class="bar" data-percentage="80"></div><span>Option 05</span>
                     </li>
                 </ul>
-                <div class="d-flex justify-content-md-center mt-5 ">
+                <div style="display: flex; justify-content:center; margin-top:3rem; gap:22px; align-self: center;">
                     <div>
-                        <div class="d-flex justify-content-around" style="width: 100px; height: 100px;">
+                        <div class="" style="display:flex; justify-content:center; width: 100px; height: 100px;">
                             <img src="../img/whiteIcon.png" alt="icons">
                             <img src="../img/whiteIcon.png" alt="icons">
-                            <img src="../img/blueIcon.png" alt="icons">
+                            <img src="../img/whiteIcon.png" alt="icons">
+                            @* <img src="../img/blueIcon.png" alt="icons"> *@
                         </div>
                         <div class="d-flex justify-content-around" style="width: 100px; height: 100px;"">
                         <img src=" ../img/whiteIcon.png" alt="icons">
@@ -75,20 +76,20 @@
                         </div>
                     </div>
                     <div class="d-flex align-items-end justify-content-between">
-                        <h1><span style="font-size: 60px; font-family:
-                        'Lucida Sans',Verdana, sans-serif; 
-                        color:rgb(19, 65, 173); font-weight: 900;">1</span>
-                    <span style="color:white;">in</span><span style="font-size: 60px; font-family:
-                        'Lucida Sans',Verdana, sans-serif;
-                        color:rgb(19, 65, 173); font-weight: 900;">6</span>
+                        <h1>
+                            <span class="font1outOf6">1</span>
+                            <span style="color:white;">in</span>
+                            <span class="font1outOf6">6</span>
                         </h1>
                     </div>
                 </div>
-                <h6 class=" text-center" style="color: white;">
+                <h6 style="color: white;  text-align: justify; -moz-text-align-last: center;text-align-last: center;">
                     children in the U.S.live in poverty</h6>
                 <!--chart end-->
             </div>
         </div>
     </div>
-    <div>@await Html.PartialAsync("_map")</div>
+    <div>
+        <div>@await Html.PartialAsync("_map")</div>
+    </div>
 </main>

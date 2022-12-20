@@ -1,0 +1,1892 @@
+[
+    {
+        "country": "Usa",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png",
+        "population": "333,486,048",
+        "nationalDebt": "$31,443,714,609,381",
+        "gdpGrossDomesticProduct": "$25,806,081,546,031",
+        "publicDebtToGdpRatio": "94.38%",
+        "externalDebtToGdpRatio": "101.07%",
+        "economicDescription": {
+            "country": "Usa",
+            "economicForecast": "Growth will slow in 2022 from 2021, on tighter financial conditions. That said, the buoyant labor market will support private consumption, investment should stay fairly healthy as firms look to boost productive capacity, and the Ukraine war will support the energy sector. Possible new Covid-19 variants, an intensification of the war and tensions with China are risks. FocusEconomics panelists see GDP growing 2.8% in 2022, which is down 0.4 percentage points from the previous month’s forecast. In 2023, our panel sees the economy expanding 2.0%.",
+            "economicOutlook": "ond estimate confirmed that the economy contracted in Q1, driven by lower private inventory investment and defense spending, and a negative contribution from net exports. However, the economy’s underlying strength remained intact, with private consumption and fixed investment gaining steam. Turning to Q2, GDP is likely rebounding and is set to grow above 3.0% in quarter-on-quarter SAAR terms, as the contributions from net exports, government spending and inventories improve. Moreover, consumer spending has so far remained robust in the face of elevated price pressures—as shown by brisk retail sales growth in April—thanks to strong employment gains, the fading impact of the pandemic and households running down savings. That said, widespread labor shortages are constraining business activity, and PMI data suggests the manufacturing sector lost some steam at the outset of Q2.",
+            "timeStamp": "2022-12-20T02:07:18.103Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Usa",
+            "articles": [
+                {
+                    "articleTitle": "Investors think stagflation—a 1970s style death spiral—is a bigger threat to the U.S. economy than a recession",
+                    "article": "https://news.google.com/articles/CBMiZGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMi8xMi8xNi9pbnN0aXR1dGlvbmFsLWludmVzdG9ycy13b3JyaWVkLWFib3V0LXN0YWdmbGF0aW9uLW5vdC1pbmZsYXRpb24tMjAyMy_SAWhodHRwczovL2ZvcnR1bmUuY29tLzIwMjIvMTIvMTYvaW5zdGl0dXRpb25hbC1pbnZlc3RvcnMtd29ycmllZC1hYm91dC1zdGFnZmxhdGlvbi1ub3QtaW5mbGF0aW9uLTIwMjMvYW1wLw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Where are the missing 3.5 million workers from the US economy?",
+                    "article": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmJ1c2luZXNzcmVwb3J0LmNvbS9idXNpbmVzcy91cy1lY29ub215LWlzLW1pc3NpbmctMy01LW1pbGxpb24td29ya2Vyc9IBV2h0dHBzOi8vd3d3LmJ1c2luZXNzcmVwb3J0LmNvbS9idXNpbmVzcy91cy1lY29ub215LWlzLW1pc3NpbmctMy01LW1pbGxpb24td29ya2Vycz9hbXA9MQ?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Predictions of China’s rise and America’s demise in 2022 were wrong — at least for now | Opinion",
+                    "article": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2xvY2FsL25ld3MtY29sdW1ucy1ibG9ncy9hbmRyZXMtb3BwZW5oZWltZXIvYXJ0aWNsZTI3MDEwMzY1Ny5odG1s0gFiaHR0cHM6Ly9hbXAubWlhbWloZXJhbGQuY29tL25ld3MvbG9jYWwvbmV3cy1jb2x1bW5zLWJsb2dzL2FuZHJlcy1vcHBlbmhlaW1lci9hcnRpY2xlMjcwMTAzNjU3Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Wall Street now thinks the Fed will let the U.S. economy fall into recession if that’s what it takes to stop inflation",
+                    "article": "https://news.google.com/articles/CBMiZmh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMi8xMi8xNi93YWxsLXN0cmVldC10aGlua3MtZmVkLWxldC11cy1lY29ub215LWZhbGwtcmVjZXNzaW9uLXRvLXN0b3AtaW5mbGF0aW9uL9IBamh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMi8xMi8xNi93YWxsLXN0cmVldC10aGlua3MtZmVkLWxldC11cy1lY29ub215LWZhbGwtcmVjZXNzaW9uLXRvLXN0b3AtaW5mbGF0aW9uL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Larry Kudlow: America's economy is in jeopardy",
+                    "article": "https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9sYXJyeS1rdWRsb3ctYW1lcmljYXMtZWNvbm9teS1qZW9wYXJkedIBTGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9sYXJyeS1rdWRsb3ctYW1lcmljYXMtZWNvbm9teS1qZW9wYXJkeS5hbXA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Retail Sales, Manufacturing Declines Point to Slowing Economy",
+                    "article": "https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3Lndzai5jb20vYXJ0aWNsZXMvdXMtZWNvbm9teS1yZXRhaWwtc2FsZXMtbm92ZW1iZXItMjAyMi0xMTY3MTA1OTYyOdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Will the U.S. and Europe slide into recession in 2023? Here’s how to look out when economic outlooks don’t",
+                    "article": "https://news.google.com/articles/CBMidGh0dHBzOi8vZm9ydHVuZS5jb20vMjAyMi8xMi8xMi93aWxsLXVzLWV1cm9wZS1yZWNlc3Npb24tMjAyMy1lY29ub21pYy1vdXRsb29rLWluZmxhdGlvbi1iY2ctY2FybHNzb24tc3psZXphay1zd2FydHov0gF4aHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDIyLzEyLzEyL3dpbGwtdXMtZXVyb3BlLXJlY2Vzc2lvbi0yMDIzLWVjb25vbWljLW91dGxvb2staW5mbGF0aW9uLWJjZy1jYXJsc3Nvbi1zemxlemFrLXN3YXJ0ei9hbXAv?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Long Covid is distorting the labor market — and that's bad for the U.S. economy",
+                    "article": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMDgvbG9uZy1jb3ZpZC1pcy1kaXN0b3J0aW5nLXRoZS1sYWJvci1tYXJrZXQtaHVydGluZy10aGUtdXMtZWNvbm9teS5odG1s0gFpaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjIvMTIvMDgvbG9uZy1jb3ZpZC1pcy1kaXN0b3J0aW5nLXRoZS1sYWJvci1tYXJrZXQtaHVydGluZy10aGUtdXMtZWNvbm9teS5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Sec. Janet Yellen sees U.S. economy improving and lower inflation on the horizon - 60 Minutes",
+                    "article": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvamFuZXQteWVsbGVuLWltcHJvdmluZy1lY29ub215LWxvd2VyLWluZmxhdGlvbi02MC1taW51dGVzLTIwMjItMTItMTEv0gFmaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvamFuZXQteWVsbGVuLWltcHJvdmluZy1lY29ub215LWxvd2VyLWluZmxhdGlvbi02MC1taW51dGVzLTIwMjItMTItMTEv?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Trump's Immigrant Crackdown Left A Critical Shortage Of Workers In U.S. Economy",
+                    "article": "https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9pbW1pZ3JhdGlvbi1jcmFja2Rvd24tbGFib3Itc2hvcnRmYWxsLXVzLWVjb25vbXlfbl82MzliYjU2NWU0YjA0NDE0MzA0NWNhZGPSAW5odHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvaW1taWdyYXRpb24tY3JhY2tkb3duLWxhYm9yLXNob3J0ZmFsbC11cy1lY29ub215X25fNjM5YmI1NjVlNGIwNDQxNDMwNDVjYWRjL2FtcA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:05:34.070Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "China",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/800px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "population": "1,440,119,395",
+        "nationalDebt": "$10,945,358,981,013",
+        "gdpGrossDomesticProduct": "$17,521,477,564,252",
+        "publicDebtToGdpRatio": "62.47%",
+        "externalDebtToGdpRatio": "10.78%",
+        "economicDescription": {
+            "country": "China",
+            "economicForecast": "Growth will slow sharply this year due to the government’s tough pandemic measures, the steep property downturn and cooling export growth. That said, stronger infrastructure stimulus should provide some support. Downside risks include persistent Covid-19 restrictions and a deepening of the property crisis, while the possibility of a rollback of U.S. tariffs is an upside risk. FocusEconomics panelists expect GDP to expand 4.4% in 2022, which is down 0.3 percentage points from last month’s forecast. In 2023, the panel foresees GDP expanding 5.2%.",
+            "economicOutlook": "economy lost significant steam in early Q2 on widespread Covid-19 lockdowns: In April, retail sales and industrial production recorded their sharpest annual contractions since early 2020. The economy regained some momentum in May, as the impact of the pandemic ebbed, with retail sales, industrial production, fixed investment and export figures all beating expectations. However, overall activity remained downbeat, with the housing market particularly depressed. Towards the end of Q2, the marked fall in total Covid-19 cases and the recent easing of lockdowns in many areas—including Shanghai—will aid household spending, exports and industrial activity. On the other hand, the threat of further stop-start restrictions will continue to weigh on sentiment, with Beijing and Shanghai resuming mass testing in mid-June in response to the emergence of new Covid-19 clusters.",
+            "timeStamp": "2022-12-20T02:07:20.617Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "China",
+            "articles": [
+                {
+                    "articleTitle": "Oil rises on hopes for China's economy; recession fears limit gains",
+                    "article": "https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9vaWwtY2xpbWJzLW9wdGltaXNtLW92ZXItY2hpbmFzLWRlbWFuZC1yZWNvdmVyeS0yMDIyLTEyLTE5L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Oil climbs, but uncertainty on China COVID surge caps gains",
+                    "article": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9vaWwtY2xpbWJzLXVuY2VydGFpbnR5LWNoaW5hLWNvdmlkLXN1cmdlLWNhcHMtZ2FpbnMtMjAyMi0xMi0yMC_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Oil rises on hopes for China's economy; recession fears limit gains",
+                    "article": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMTkvb2lsLW1hcmtldHMtb3B0aW1pc20tb3Zlci1jaGluYXMtZGVtYW5kLXJlY292ZXJ5LXJlY2Vzc2lvbi1mZWFycy5odG1s0gFpaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjIvMTIvMTkvb2lsLW1hcmtldHMtb3B0aW1pc20tb3Zlci1jaGluYXMtZGVtYW5kLXJlY292ZXJ5LXJlY2Vzc2lvbi1mZWFycy5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "US trade chief urges new tools against China’s ‘20-year’ market distortions",
+                    "article": "https://news.google.com/articles/CBMikAFodHRwczovL3d3dy5zY21wLmNvbS9uZXdzL2NoaW5hL2FydGljbGUvMzIwMzkxNy91cy10cmFkZS1jaGllZi1zYXlzLW5ldy10b29scy1uZWVkZWQtY291bnRlci1jaGluYXMtMjAteWVhci1kaXN0b3J0aW9ucy1hZmZlY3RpbmctZ2xvYmFsLWVjb25vbXnSAZABaHR0cHM6Ly9hbXAuc2NtcC5jb20vbmV3cy9jaGluYS9hcnRpY2xlLzMyMDM5MTcvdXMtdHJhZGUtY2hpZWYtc2F5cy1uZXctdG9vbHMtbmVlZGVkLWNvdW50ZXItY2hpbmFzLTIwLXllYXItZGlzdG9ydGlvbnMtYWZmZWN0aW5nLWdsb2JhbC1lY29ub215?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Opinion | China's Economy Won't Be Number One",
+                    "article": "https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3Lndzai5jb20vYXJ0aWNsZXMvY2hpbmEtd29udC1iZS1udW1iZXItb25lLWphcGFuLWNlbnRlci1mb3ItZWNvbm9taWMtcmVzZWFyY2gtcmVwb3J0LWVjb25vbXkteGktamlucGluZy0xMTY3MTQ2NDI5M9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "China's Economy: Has Central Planning Been Successful?",
+                    "article": "https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9jb3JuZXIvY2hpbmEtaXNudC1ldmVuLWdvb2QtYXQtYmVpbmctY2hpbmEv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Despite abandoning zero-Covid, China's economic challenges are huge",
+                    "article": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzY2ZDgwYWUzLTA4M2UtNGZjYi1hODFjLTJmZWQ1NmIxNmI5OdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Chinese business confidence falls to lowest in almost a decade on COVID",
+                    "article": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2NoaW5hL2NoaW5lc2UtYnVzaW5lc3MtY29uZmlkZW5jZS1sb3dlc3QtYWxtb3N0LWRlY2FkZS1zdXJ2ZXktMjAyMi0xMi0xOS_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Why Didn't China Prepare Better to Prevent Covid-19 Deaths?",
+                    "article": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vb3Bpbmlvbi9hcnRpY2xlcy8yMDIyLTEyLTE5L3doeS1kaWRuLXQtY2hpbmEtcHJlcGFyZS1iZXR0ZXItdG8tcHJldmVudC1jb3ZpZC0xOS1kZWF0aHPSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "From recovery to regulation: How China's tech giants could fare in 2023 after a bruising year",
+                    "article": "https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMjAvY2hpbmEtdGVjaG5vbG9neS1zZWN0b3Itc3RvY2stb3V0bG9vay1mb3ItMjAyMy5odG1s0gFXaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjIvMTIvMjAvY2hpbmEtdGVjaG5vbG9neS1zZWN0b3Itc3RvY2stb3V0bG9vay1mb3ItMjAyMy5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:05:36.624Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Japan",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
+        "population": "126,506,831",
+        "nationalDebt": "$15,440,741,139,708",
+        "gdpGrossDomesticProduct": "$5,310,453,169,234",
+        "publicDebtToGdpRatio": "290.77%",
+        "externalDebtToGdpRatio": "79.82%",
+        "economicDescription": {
+            "country": "Japan",
+            "economicForecast": "GDP growth should pick up this year thanks to strong domestic demand. Looser Covid-19 restrictions will boost private consumption, while investment should recover. That said, our panelists project that the economy will remain below pre-pandemic levels at the end of the year. A weaker external sector will drag on momentum. FocusEconomics panelists see the economy expanding 2.0% in 2022, which is down 0.2 percentage points from last month’s forecast, and 1.8% in 2023.",
+            "economicOutlook": "xpected, preliminary data showed the economy contracted in Q1. Record Covid-19 case numbers led the government to introduce quasi-state-of-emergency measures, which along with rising inflation caused private consumption to fall. In Q2, a recovery is under way. Its driving force is private consumption: Most Covid-19 restrictions were scrapped in late March, more than offsetting the drag from higher inflation.  Consumer confidence and the services PMI have risen in the quarter so far. Further reopening will boost private spending even more; some foreign tourists will be permitted entry from June. This said, the external sector appears to be dragging on activity, with export growth and the manufacturing PMI sliding in the quarter so far, due to supply bottlenecks and a slowing global economy due to war in Ukraine, Covid-19 lockdowns in China, and higher global inflation and interest rates.",
+            "timeStamp": "2022-12-20T02:07:23.120Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Japan",
+            "articles": [
+                {
+                    "articleTitle": "Dollar slips as markets bounce, Japan policy shift talk lifts yen",
+                    "article": "https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMTkvZm9yZXgtbWFya2V0cy15ZW4tamFwYW4taW5mbGF0aW9uLXRhcmdldC5odG1s0gFRaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjIvMTIvMTkvZm9yZXgtbWFya2V0cy15ZW4tamFwYW4taW5mbGF0aW9uLXRhcmdldC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "FOREX-Dollar slips as markets bounce, Japan policy shift talk lifts yen",
+                    "article": "https://news.google.com/articles/CBMiT2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JleC1kb2xsYXItc2xpcHMtbWFya2V0cy1ib3VuY2UtMTI0MzQ1ODgwLmh0bWzSAVdodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9mb3JleC1kb2xsYXItc2xpcHMtbWFya2V0cy1ib3VuY2UtMTI0MzQ1ODgwLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Morning Bid: Yen for change",
+                    "article": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZ2xvYmFsLW1hcmtldHMtdmlldy11c2EtMjAyMi0xMi0xOS_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Japan's economy could enter a recession in 2023, economist says",
+                    "article": "https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMDcvamFwYW4tZXhwZWN0ZWQtdG8tZW50ZXItcmVjZXNzaW9uLTIwMjMuaHRtbNIBT2h0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzEyLzA3L2phcGFuLWV4cGVjdGVkLXRvLWVudGVyLXJlY2Vzc2lvbi0yMDIzLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Japan Economy GDP Shrank Less Than Estimated in Third Quarter",
+                    "article": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTA4L2phcGFuLXMtZWNvbm9teS1zaHJhbmstbGVzcy10aGFuLWZpcnN0LXRob3VnaHQtaW4tdGhpcmQtcXVhcnRlctIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Wretched Year for Yen Set to Cut Wealth in Japan Below Neighbors",
+                    "article": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE2L2phcGFuLXNldC10by1zbGlwLWJlaGluZC10YWl3YW4tb24tZWNvbm9taWMtc3RyZW5ndGgtcGVyLXBlcnNvbtIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "China keeps key lending rates unchanged; Asia-Pacific markets mostly fall",
+                    "article": "https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMjAvYXNpYS1wYWNpZmljLWJhbmstb2YtamFwYW4tZGVjaXNpb24uaHRtbNIBTGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzEyLzIwL2FzaWEtcGFjaWZpYy1iYW5rLW9mLWphcGFuLWRlY2lzaW9uLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Japan says economy picking up moderately, while govt staying ...",
+                    "article": "https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvYXNpYS9qYXBhbi1zYXlzLWVjb25vbXktcGlja2luZy11cC1tb2RlcmF0ZWx5LXdoaWxlLWdvdnQtc3RheWluZy12aWdpbGFudC1yaXNrcy0yMDIyLTExLTI0L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "BOJ must eye rate hike, shift to more flexible policy, says ex-deputy ...",
+                    "article": "https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Jvai1tdXN0LWV5ZS1yYXRlLWhpa2Utc2hpZnQtbW9yZS1mbGV4aWJsZS1wb2xpY3ktc2F5cy1leC1kZXB1dHktZ292ZXJub3ItMjAyMi0xMi0xOS_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Examining US-Japan Cooperation in the Economic Security Era",
+                    "article": "https://news.google.com/articles/CBMiKmh0dHBzOi8vd3d3Lm5pcHBvbi5jb20vZW4vaW4tZGVwdGgvZDAwODY0L9IBLmh0dHBzOi8vd3d3Lm5pcHBvbi5jb20vZW4vaW4tZGVwdGgvZDAwODY0L2FtcC8?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:05:40.109Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Germany",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+        "population": "83,922,835",
+        "nationalDebt": "$3,465,413,164,117",
+        "gdpGrossDomesticProduct": "$4,493,540,424,213",
+        "publicDebtToGdpRatio": "77.12%",
+        "externalDebtToGdpRatio": "140.10%",
+        "economicDescription": {
+            "country": "Germany",
+            "economicForecast": "The pace of economic growth will moderate this year amid the fallout from the war in Ukraine. Elevated commodity prices will undermine consumer purchasing power and exacerbate supply chain issues for industry. Lockdowns in China may lead to additional supply bottlenecks and could also depress export demand. However, a tight labor market should provide some support. FocusEconomics Consensus Forecast panelists project the economy to grow 2.0% in 2022, which is down 0.2 percentage points from last month’s forecast, and to expand 2.5% in 2023.",
+            "economicOutlook": "detailed breakdown of Q1 national accounts confirmed the preliminary result of moderate growth, which was mainly driven by fixed investment and inventories. Household spending fell, as higher inflation and deeply pessimistic consumer sentiment more than offset the positive effect of the economic reopening. While the economy is expected to hold up relatively well in Q2, with composite PMI data for April and May showing a continued improvement in operating conditions, other data calls for caution. The war in Ukraine continues to weigh heavily on business and consumer sentiment. Moreover, both harmonized consumer and producer price inflation reached record highs in April, suggesting that price pressures will continue to hamper activity. Meanwhile, the European Commission recently highlighted the investment environment, productivity, digitalization and pensions as areas in need of reform.",
+            "timeStamp": "2022-12-20T02:07:25.648Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Germany",
+            "articles": [
+                {
+                    "articleTitle": "France and Germany push for fast-track subsidies after US row",
+                    "article": "https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvcGFyaXMtYW5kLWJlcmxpbi13YW50LW5ldy1mYXN0LXRyYWNrLWZvci1zdHJhdGVnaWMtc3Vic2lkaWVzLWFtaWQtdHJhbnNhdGxhbnRpYy10ZW5zaW9ucy_SAX1odHRwczovL3d3dy5wb2xpdGljby5ldS9hcnRpY2xlL3BhcmlzLWFuZC1iZXJsaW4td2FudC1uZXctZmFzdC10cmFjay1mb3Itc3RyYXRlZ2ljLXN1YnNpZGllcy1hbWlkLXRyYW5zYXRsYW50aWMtdGVuc2lvbnMvYW1wLw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "France and Germany eye 'aggressive response' to U.S. Inflation Reduction Act",
+                    "article": "https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3LmRldmRpc2NvdXJzZS5jb20vYXJ0aWNsZS9wb2xpdGljcy8yMjkyMjAwLWZyYW5jZS1hbmQtZ2VybWFueS1leWUtYWdncmVzc2l2ZS1yZXNwb25zZS10by11cy1pbmZsYXRpb24tcmVkdWN0aW9uLWFjdNIBggFodHRwczovL3d3dy5kZXZkaXNjb3Vyc2UuY29tL2FydGljbGUvcG9saXRpY3MvMjI5MjIwMC1mcmFuY2UtYW5kLWdlcm1hbnktZXllLWFnZ3Jlc3NpdmUtcmVzcG9uc2UtdG8tdXMtaW5mbGF0aW9uLXJlZHVjdGlvbi1hY3Q_YW1w?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "German GDP growth raises hopes of less severe recession",
+                    "article": "https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2dlcm1hbi1lY29ub215LWJlYXRzLWV4cGVjdGF0aW9ucy13aXRoLTA0LWdyb3d0aC1xMy0yMDIyLTExLTI1L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Germany's half-a-trillion dollar energy bazooka may not be enough",
+                    "article": "https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9nZXJtYW55cy1oYWxmLWEtdHJpbGxpb24tZG9sbGFyLWVuZXJneS1iYXpvb2thLW1heS1ub3QtYmUtZW5vdWdoLTIwMjItMTItMTUv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "India may become the third largest economy by 2030, overtaking Japan and Germany",
+                    "article": "https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMDEvaW5kaWEtdG8tbGVhcGZyb2ctdG8tdGhpcmQtbGFyZ2VzdC1lY29ub215LWJ5LTIwMzAuaHRtbNIBW2h0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzEyLzAxL2luZGlhLXRvLWxlYXBmcm9nLXRvLXRoaXJkLWxhcmdlc3QtZWNvbm9teS1ieS0yMDMwLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Could far-right AfD weaponise Germany’s cost-of-living crisis?",
+                    "article": "https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vZmVhdHVyZXMvMjAyMi8xMi8xMy9jb3VsZC1mYXItcmlnaHQtYWZkLXdlYXBvbmlzZS1nZXJtYW55cy1jb3N0LW9mLWxpdmluZy1jcmlzaXPSAW5odHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9mZWF0dXJlcy8yMDIyLzEyLzEzL2NvdWxkLWZhci1yaWdodC1hZmQtd2VhcG9uaXNlLWdlcm1hbnlzLWNvc3Qtb2YtbGl2aW5nLWNyaXNpcw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Germany confronts a broken business model",
+                    "article": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzUwYTQ2MmIzLTBlOGItNDllMS04NzNjLTk1MDU3NjBkNGE2NtIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Inflation Eases Slightly in Germany and Spain",
+                    "article": "https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMjkvYnVzaW5lc3MvaW5mbGF0aW9uLWdlcm1hbnktc3BhaW4uaHRtbNIBTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMjkvYnVzaW5lc3MvaW5mbGF0aW9uLWdlcm1hbnktc3BhaW4uYW1wLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Germany's housing market is facing a serious downturn in prices, analysts say",
+                    "article": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMDUvZ2VybWFueXMtaG91c2luZy1tYXJrZXQtaXMtcmlwZS1mb3ItYS1zZXJpb3VzLXByaWNlLWNvcnJlY3Rpb24tZWNvbm9taXN0cy13YXJuLmh0bWzSAXdodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMi8xMi8wNS9nZXJtYW55cy1ob3VzaW5nLW1hcmtldC1pcy1yaXBlLWZvci1hLXNlcmlvdXMtcHJpY2UtY29ycmVjdGlvbi1lY29ub21pc3RzLXdhcm4uaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Will Germany’s energy policy lead to economic failure?",
+                    "article": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDIyL25vdi8yNS9nZXJtYW55LWVuZXJneS1wb2xpY3ktZWNvbm9taWMtZmFpbHVyZS1ncmVlbi1ydXNzaWFuLWdhc9IBaWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDIyL25vdi8yNS9nZXJtYW55LWVuZXJneS1wb2xpY3ktZWNvbm9taWMtZmFpbHVyZS1ncmVlbi1ydXNzaWFuLWdhcw?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:05:43.629Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "UK",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png",
+        "population": "67,931,705",
+        "nationalDebt": "$3,431,299,448,014",
+        "gdpGrossDomesticProduct": "$3,283,781,104,352",
+        "publicDebtToGdpRatio": "104.50%",
+        "externalDebtToGdpRatio": "292.49%",
+        "economicDescription": {
+            "country": "UK",
+            "economicForecast": "This year, growth will slow sharply due to intense inflation and tighter monetary policy. Protracted conflict in Ukraine and new Covid-19 variants pose downside risks, while further fiscal support is an upside risk. Trade tensions with the EU have risen recently after the government announced plans to override the Northern Ireland Protocol, further clouding the outlook. FocusEconomics panelists expect the economy to expand 3.7% in 2022, which is down 0.1 percentage points from last month’s forecast, and 1.5% in 2023.",
+            "economicOutlook": "owth was well above the European average in Q1, as the removal of virtually all Covid-19 restrictions supported private consumption. Moreover, fixed investment accelerated from Q4 due to a large expansion in government investment. However, business investment contracted, while exports fell sharply. Moreover, growth only occurred early in the quarter, as monthly data shows GDP flatlined in February and shrank in March, as the cost-of-living squeeze intensified. Moving to Q2, PMI data for April and May suggests a sharp loss of momentum, in line with record inflation, all-time low consumer sentiment and renewed supply chain difficulties. In May, the government announced a GBP 15 billion cost-of-living package, with measures including a discount on energy bills for all households, and fiscal transfers to low earners. The measures will support activity, but potentially at the cost of generating extra inflation.",
+            "timeStamp": "2022-12-20T02:07:28.134Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "UK",
+            "articles": [
+                {
+                    "articleTitle": "Exodus of more than half a million from workforce ‘puts UK economy at risk’",
+                    "article": "https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDIyL2RlYy8yMC9leG9kdXMtb2YtbW9yZS10aGFuLWhhbGYtYS1taWxsaW9uLWZyb20td29ya2ZvcmNlLXB1dHMtdWstZWNvbm9teS1hdC1yaXNr0gF6aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzLzIwMjIvZGVjLzIwL2V4b2R1cy1vZi1tb3JlLXRoYW4taGFsZi1hLW1pbGxpb24tZnJvbS13b3JrZm9yY2UtcHV0cy11ay1lY29ub215LWF0LXJpc2s?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "The pound will collapse next year if the global economy falters",
+                    "article": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9idXNpbmVzcy8yMDIyLzEyLzE4L3BvdW5kLXdpbGwtY29sbGFwc2UtbmV4dC15ZWFyLWdsb2JhbC1lY29ub215LWZhbHRlcnMv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "UK economy rebounds from royal funeral hit, outlook remains bleak",
+                    "article": "https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VrL3VrLWVjb25vbXktZ3Jvd3MtMDUtb2N0LWFmdGVyLWhpdC1yb3lhbC1mdW5lcmFsLXNlcHQtMjAyMi0xMi0xMi_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "UK economy rebounds by more than expected in October",
+                    "article": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50Lzg4MDA4YzA3LWMzOWUtNGUyMi05NjgyLWNjYTE4NjVlNTViY9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "UK Starts to Look at Brexit With ‘Bregret’",
+                    "article": "https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMjIvd29ybGQvZXVyb3BlL3VrLWJyZXhpdC1yZWdyZXQuaHRtbNIBSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMjIvd29ybGQvZXVyb3BlL3VrLWJyZXhpdC1yZWdyZXQuYW1wLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "UK inflation falls from 41-year high as fuel price surge eases",
+                    "article": "https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMTQvdWstaW5mbGF0aW9uLWZhbGxzLWZyb20tNDEteWVhci1oaWdoLWFzLWZ1ZWwtcHJpY2Utc3VyZ2UtZWFzZXMuaHRtbNIBZ2h0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzEyLzE0L3VrLWluZmxhdGlvbi1mYWxscy1mcm9tLTQxLXllYXItaGlnaC1hcy1mdWVsLXByaWNlLXN1cmdlLWVhc2VzLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "UK banking rules in biggest shake-up in more than 30 years",
+                    "article": "https://news.google.com/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy02MzkwNTUwNdIBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy02MzkwNTUwNS5hbXA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "UK facing ‘tough road’ as recession looms despite economy growing in October – as it happened",
+                    "article": "https://news.google.com/articles/CBMiggFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvbGl2ZS8yMDIyL2RlYy8xMi9nZHAtcmVwb3J0LXVrLWVjb25vbXktb2N0b2Jlci1yZWNlc3Npb24tc2VydmljZXMtbWFudWZhY3R1cmluZy1idXNpbmVzcy1saXZl0gGCAWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy9saXZlLzIwMjIvZGVjLzEyL2dkcC1yZXBvcnQtdWstZWNvbm9teS1vY3RvYmVyLXJlY2Vzc2lvbi1zZXJ2aWNlcy1tYW51ZmFjdHVyaW5nLWJ1c2luZXNzLWxpdmU?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "France requests emergency cut in electricity exports to UK as nuclear crisis deepens",
+                    "article": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9idXNpbmVzcy8yMDIyLzEyLzEyL2Z0c2UtMTAwLW1hcmtldHMtbGl2ZS1uZXdzLXVrLWVjb25vbXktc3RyaWtlcy1lbmVyZ3kv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "UK recession could turn into a 'lost decade'",
+                    "article": "https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMi8xMi8wNS9lY29ub215L3VrLWVjb25vbXktbG9zdC1kZWNhZGUtY2JpL2luZGV4Lmh0bWzSAVBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIyLzEyLzA1L2Vjb25vbXkvdWstZWNvbm9teS1sb3N0LWRlY2FkZS1jYmkvaW5kZXguaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:05:47.192Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "India",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
+        "population": "1,380,457,225",
+        "nationalDebt": "$2,384,210,005,967",
+        "gdpGrossDomesticProduct": "$3,063,449,039,293",
+        "publicDebtToGdpRatio": "77.83%",
+        "externalDebtToGdpRatio": "19.33%",
+        "economicDescription": {
+            "country": "India",
+            "economicForecast": "Growth this year is set to slow, but it will still be higher than it was before the pandemic. Consumption will be boosted by the relaxation of Covid-19 restrictions, while increased government spending will add impetus. That said, rising commodity prices pose a downside risk. The Consensus projects GDP to expand 7.4% in FY 2022, which is down 0.1 percentage points from the previous month’s forecast, and 6.3% in FY 2023.",
+            "economicOutlook": "economy recovered above its pre-pandemic level in FY 2021, which ended in March this year. Turning to the first quarter of FY 2022, GDP growth is likely to speed up considerably. Growth in the industrial sector accelerated in April, suggesting it weathered the disruption to power supply caused by record-breaking temperatures well. Moreover, looser Covid-19 restrictions are boosting domestic demand, helping to push the services PMI to an over 11-year high in May. Demand will also be supported by new measures to combat rising inflation, including cuts to fuel duty, a doubling of the fertilizer subsidy, an export ban on wheat and cuts to import tariffs for some raw materials. That said, inflation remained at a near-decade high in May, which together with higher interest rates will be capping momentum.",
+            "timeStamp": "2022-12-20T02:07:30.663Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "India",
+            "articles": [
+                {
+                    "articleTitle": "India's Economic Activity Looks Set to Slow as Resilience Wanes",
+                    "article": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE5L2luZGlhLXMtZWNvbm9taWMtYWN0aXZpdHktbG9va3Mtc2V0LXRvLXNsb3ctYXMtcmVzaWxpZW5jZS13YW5lc9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "India may become world's third largest economy by 2030",
+                    "article": "https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LnByZXNzdHYuaXIvRGV0YWlsLzIwMjIvMTIvMTcvNjk0NjI4L0luZGlhLWVjb25vbXktaW52ZXN0bWVudC1jb3ZpZC1vdXRicmVhay3SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Why India Can't Replace China: The Barriers to New Delhi's Next Boom",
+                    "article": "https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LmZvcmVpZ25hZmZhaXJzLmNvbS9pbmRpYS93aHktaW5kaWEtY2FudC1yZXBsYWNlLWNoaW5h0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "India Economic Boom: 2031 Growth Outlook",
+                    "article": "https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3Lm1vcmdhbnN0YW5sZXkuY29tL2lkZWFzL2ludmVzdG1lbnQtb3Bwb3J0dW5pdGllcy1pbi1pbmRpYdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Will China And India Become The World's Top Economies? It Depends",
+                    "article": "https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc3R1YXJ0YW5kZXJzb24vMjAyMi8xMS8wMS93aWxsLWNoaW5hLWFuZC1pbmRpYS1iZWNvbWUtdGhlLXdvcmxkcy10b3AtZWNvbm9taWVzLWl0LWRlcGVuZHMv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "India may become the third largest economy by 2030, overtaking Japan and Germany",
+                    "article": "https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMDEvaW5kaWEtdG8tbGVhcGZyb2ctdG8tdGhpcmQtbGFyZ2VzdC1lY29ub215LWJ5LTIwMzAuaHRtbNIBW2h0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzEyLzAxL2luZGlhLXRvLWxlYXBmcm9nLXRvLXRoaXJkLWxhcmdlc3QtZWNvbm9teS1ieS0yMDMwLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "India's coming decade of outperformance",
+                    "article": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzQ4OWNjOTJjLWM5NTAtNDdkZS1hZDVmLTU4NmI5ZGEzM2I3MNIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Can India help break the China supply chain?",
+                    "article": "https://news.google.com/articles/CBMijQFodHRwczovL3d3dy5zY21wLmNvbS9lY29ub215L2dsb2JhbC1lY29ub215L2FydGljbGUvMzIwMTAwMi91cy1sZWQtZGl2ZXJzaWZpY2F0aW9uLXB1c2gtdGVzdHMtaW5kaWFzLXBvdGVudGlhbC1jaGluYS1zdXBwbHktY2hhaW4tYWx0ZXJuYXRpdmXSAY0BaHR0cHM6Ly9hbXAuc2NtcC5jb20vZWNvbm9teS9nbG9iYWwtZWNvbm9teS9hcnRpY2xlLzMyMDEwMDIvdXMtbGVkLWRpdmVyc2lmaWNhdGlvbi1wdXNoLXRlc3RzLWluZGlhcy1wb3RlbnRpYWwtY2hpbmEtc3VwcGx5LWNoYWluLWFsdGVybmF0aXZl?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "For India, the Adani Group is growing too big to fail",
+                    "article": "https://news.google.com/articles/CBMiTmh0dHBzOi8vcXouY29tL2Zvci1pbmRpYS10aGUtYWRhbmktZ3JvdXAtaXMtZ3Jvd2luZy10b28tYmlnLXRvLWZhaWwtMTg0OTg3MzQ4OdIBUmh0dHBzOi8vcXouY29tL2Zvci1pbmRpYS10aGUtYWRhbmktZ3JvdXAtaXMtZ3Jvd2luZy10b28tYmlnLXRvLWZhaWwtMTg0OTg3MzQ4OS9hbXA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "India takes off?",
+                    "article": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2JkZWQwNTM3LWI2M2QtNGNhNi1hMzA4LTBlNmJhY2QyMWI0Y9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:05:50.729Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "France",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png",
+        "population": "65,272,539",
+        "nationalDebt": "$3,725,753,935,239",
+        "gdpGrossDomesticProduct": "$2,827,870,946,910",
+        "publicDebtToGdpRatio": "131.76%",
+        "externalDebtToGdpRatio": "224.04%",
+        "economicDescription": {
+            "country": "France",
+            "economicForecast": "GDP this year is projected to expand at an above-average pace. Household spending will largely sustain growth. That said, growth will be lower than last year due to a less favorable base effect and slowdowns in government and capital spending. The outbreak of war on the EU’s eastern flank, and its impact on supply chains and price pressures, poses risks to the outlook. Our analysts see the economy expanding 2.9% in 2022, which is down 0.2 percentage points from last month’s forecast, and 1.9% in 2023.",
+            "economicOutlook": "growth stagnated in quarter-on-quarter terms in Q1 due to a contraction in private spending. Turning to Q2, the war in Ukraine is taking a toll on the economy: Record-high inflation and subdued consumer confidence in April is likely to keep a lid on household consumption. Similarly, business confidence moderated further in May. That said, the composite PMI rose to a four-year high in April and remained upbeat in May, bolstered by the loosening of pandemic-related restrictions. In politics, Emmanuel Macron appointed Élisabeth Borne as the prime minister on 16 May after a cabinet reshuffle. Lastly, in a recent report, the European Commission said that France had successfully managed the pandemic crisis, but had strained public finances as a result. In order to ensure sustainability of public finances, the Commission recommended that France simplifies its pension system.",
+            "timeStamp": "2022-12-20T02:07:33.175Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "France",
+            "articles": [
+                {
+                    "articleTitle": "Bank of France: Economy Faces Sharp Slowdown, Unlikely to ...",
+                    "article": "https://news.google.com/articles/CBMigQFodHRwczovL3d3dy50YXNuaW1uZXdzLmNvbS9lbi9uZXdzLzIwMjIvMTIvMTgvMjgyMzI0OS9iYW5rLW9mLWZyYW5jZS1lY29ub215LWZhY2VzLXNoYXJwLXNsb3dkb3duLXVubGlrZWx5LXRvLWJvdW5jZS1iYWNrLXF1aWNrbHnSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "France's Economy Heading towards Sharp Slowdown in Winter ...",
+                    "article": "https://news.google.com/articles/CBMiWmh0dHBzOi8vc2VlLm5ld3MvZnJhbmNlcy1lY29ub215LWhlYWRpbmctdG93YXJkcy1zaGFycC1zbG93ZG93bi1pbi13aW50ZXItYmFucXVlLWRlLWZyYW5jZdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "France Faces Higher Recession Risk as German Downturn Eases",
+                    "article": "https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE2L2ZyYW5jZS1mYWNlcy1oaWdoZXItcmVjZXNzaW9uLXJpc2stYXMtZ2VybWFuLWRvd250dXJuLWVhc2Vz0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "France and Germany push for fast-track subsidies after US row",
+                    "article": "https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvcGFyaXMtYW5kLWJlcmxpbi13YW50LW5ldy1mYXN0LXRyYWNrLWZvci1zdHJhdGVnaWMtc3Vic2lkaWVzLWFtaWQtdHJhbnNhdGxhbnRpYy10ZW5zaW9ucy_SAX1odHRwczovL3d3dy5wb2xpdGljby5ldS9hcnRpY2xlL3BhcmlzLWFuZC1iZXJsaW4td2FudC1uZXctZmFzdC10cmFjay1mb3Itc3RyYXRlZ2ljLXN1YnNpZGllcy1hbWlkLXRyYW5zYXRsYW50aWMtdGVuc2lvbnMvYW1wLw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Germany and France seek to match US green industry subsidies",
+                    "article": "https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmV1cmFjdGl2LmNvbS9zZWN0aW9uL2Vjb25vbXktam9icy9uZXdzL2dlcm1hbnktYW5kLWZyYW5jZS13YW50LXRvLW1hdGNoLXVzLXN1YnNpZGllcy_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Germany, France seek to counter US climate aid with own plan",
+                    "article": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3MvZ2VybWFueS1mcmFuY2Utc2Vlay10by1jb3VudGVyLXVzLWNsaW1hdGUtYWlkLXdpdGgtb3duLXBsYW4v0gFoaHR0cHM6Ly93d3cuc2VhdHRsZXRpbWVzLmNvbS9idXNpbmVzcy9nZXJtYW55LWZyYW5jZS1zZWVrLXRvLWNvdW50ZXItdXMtY2xpbWF0ZS1haWQtd2l0aC1vd24tcGxhbi8_YW1wPTE?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Argentina, caught in economic depression, gets something to cheer in World Cup win",
+                    "article": "https://news.google.com/articles/CBMigAFodHRwczovL3d3dy5wb2xpdGljby5ldS9hcnRpY2xlL2FyZ2VudGluYS1mcmFuY2UtY2F1Z2h0LWVjb25vbWljLWRlcHJlc3Npb24tcmVsaWVmLXdvcmxkLWN1cC12aWN0b3J5LWxpb25lbC1tZXNzaS1reWxpYW4tbWJhcHBlL9IBhAFodHRwczovL3d3dy5wb2xpdGljby5ldS9hcnRpY2xlL2FyZ2VudGluYS1mcmFuY2UtY2F1Z2h0LWVjb25vbWljLWRlcHJlc3Npb24tcmVsaWVmLXdvcmxkLWN1cC12aWN0b3J5LWxpb25lbC1tZXNzaS1reWxpYW4tbWJhcHBlL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "French economy contracted in November - flash PMI",
+                    "article": "https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2ZyZW5jaC1lY29ub215LWNvbnRyYWN0ZWQtbm92ZW1iZXItZmxhc2gtcG1pLTIwMjItMTEtMjMv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "International students contribute up to 5 billion euros to the French ...",
+                    "article": "https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmNhbXB1c2ZyYW5jZS5vcmcvZW4vaW50ZXJuYXRpb25hbC1zdHVkZW50cy1jb250cmlidXRlLXVwLXRvLTUtYmlsbGlvbi1ldXJvcy10by10aGUtZnJlbmNoLWVjb25vbXnSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "FIFA World Cup Final: Winner Could Bring GDP Boost to France or ...",
+                    "article": "https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE2L3dpbm5pbmctMjAyMi1maWZhLXdvcmxkLWN1cC1jb3VsZC1icmluZy1nZHAtYm9vc3QtdG8tZnJhbmNlLW9yLWFyZ2VudGluYdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:05:54.346Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Italy",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png",
+        "population": "60,470,485",
+        "nationalDebt": "$3,917,333,028,445",
+        "gdpGrossDomesticProduct": "$2,196,818,859,545",
+        "publicDebtToGdpRatio": "178.32%",
+        "externalDebtToGdpRatio": "131.50%",
+        "economicDescription": {
+            "country": "Italy",
+            "economicForecast": "Our panelists continued to downgrade their 2022 growth forecasts this month. EU funds and an expansionary fiscal policy will be insufficient to compensate for the drag coming from higher energy prices. Further disruption to Russian gas supplies, as well as rising bond spreads—due to the ECB’s increasing hawkishness—cloud the outlook. FocusEconomics panelists project activity to expand 2.6% in 2022, which is down 0.2 percentage points from the previous month’s projection, and 1.9% in 2023.",
+            "economicOutlook": "economy runs a serious risk of falling into a recession in Q2. Italy is one of the non-eastern, Euro area countries most economically vulnerable to the war in Ukraine, due to its large dependence on Russian gas imports. Harmonized inflation remained at record levels in April, while the manufacturing and services PMIs also fell that same month. Likewise, business and consumer confidence deteriorated. Meanwhile, government bond spreads have continued to increase, posing a risk to financial stability given Italy’s large public debt—151% of GDP at the end of last year. That said, government measures seem to be stopping the rot somewhat, with a 15 EUR billion package unveiled in May helping both business and consumer confidence to rebound in that same month. Activity will also be supported by the further relaxation of pandemic-related restrictions, including on tourism, from 1 May.",
+            "timeStamp": "2022-12-20T02:07:35.680Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Italy",
+            "articles": [
+                {
+                    "articleTitle": "ECB rate hikes help Russia by damaging EU economy, Italy minister ...",
+                    "article": "https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2VjYi1yYXRlLWhpa2VzLWhlbHAtcnVzc2lhLWJ5LWRhbWFnaW5nLWV1LWVjb25vbXktaXRhbHktbWluaXN0ZXItc2F5cy0yMDIyLTEyLTE2L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "ECB rate hikes help Russia, harm European economy: Italy minister",
+                    "article": "https://news.google.com/articles/CBMiamh0dHBzOi8vZW5nbGlzaC5hbG1heWFkZWVuLm5ldC9uZXdzL2Vjb25vbWljcy9lY2ItcmF0ZS1oaWtlcy1oZWxwLXJ1c3NpYS1oYXJtLWV1cm9wZWFuLWVjb25vbXk6LWl0YWx5LW1pbmnSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "UPDATE 1-Italian economy minister says ECB rates hikes worrying for Rome",
+                    "article": "https://news.google.com/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy8xLWl0YWxpYW4tZWNvbm9teS1taW5pc3Rlci1zYXlzLTExNTIwMTIzNS5odG1s0gFVaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvMS1pdGFsaWFuLWVjb25vbXktbWluaXN0ZXItc2F5cy0xMTUyMDEyMzUuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Italy weakens plan to promote cash payments after EU criticism",
+                    "article": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9pdGFseS13YXRlcnMtZG93bi1wbGFuLXByb21vdGUtY2FzaC1wYXltZW50cy1hZnRlci1ldS1jcml0aWNpc20tMjAyMi0xMi0xOC_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Italy U-Turns on Policy Supporting Cash Payments",
+                    "article": "https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LnB5bW50cy5jb20vY2FzaC8yMDIyL2l0YWx5LXUtdHVybnMtb24tcG9saWN5LXN1cHBvcnRpbmctY2FzaC1wYXltZW50cy_SAVZodHRwczovL3d3dy5weW1udHMuY29tL2Nhc2gvMjAyMi9pdGFseS11LXR1cm5zLW9uLXBvbGljeS1zdXBwb3J0aW5nLWNhc2gtcGF5bWVudHMvYW1wLw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "In a world of e-payments, Italians defiantly cling to cash",
+                    "article": "https://news.google.com/articles/CBMiNmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2l0YWx5LWVwYXltZW50cy1jYXNoLTEuNjY3OTI5NtIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42Njc5Mjk2?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Italy urges EU to give strong and strategic response to U.S. IRA",
+                    "article": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2l0YWx5LXVyZ2VzLWV1LWdpdmUtc3Ryb25nLXN0cmF0ZWdpYy1yZXNwb25zZS11cy1pcmEtMjAyMi0xMi0xNy_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Italy October industry output falls more than expected for second ...",
+                    "article": "https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2l0YWx5LW9jdG9iZXItaW5kdXN0cnktb3V0cHV0LWZhbGxzLW1vcmUtdGhhbi1leHBlY3RlZC1zZWNvbmQtbW9udGgtcnVubmluZy0yMDIyLTEyLTEzL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Italy's Meloni hails \"courageous\" budget, opposition plans protests",
+                    "article": "https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2l0YWx5cy1tZWxvbmktdW52ZWlsLWJ1ZGdldC13aXRoLTMwLWJsbi1ldXJvcy1saWZ0LWVjb25vbXktMjAyMi0xMS0yMS_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Italy Has a $127 Billion Debt Problem It Can’t Easily Resolve",
+                    "article": "https://news.google.com/articles/CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9pdGFseS0xMjctYmlsbGlvbi1kZWJ0LXByb2JsZW0tMDUwMDAwMzc5Lmh0bWzSAVRodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9pdGFseS0xMjctYmlsbGlvbi1kZWJ0LXByb2JsZW0tMDUwMDAwMzc5Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:05:57.853Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Brazil",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
+        "population": "212,680,601",
+        "nationalDebt": "$1,948,389,483,017",
+        "gdpGrossDomesticProduct": "$1,906,060,465,782",
+        "publicDebtToGdpRatio": "102.22%",
+        "externalDebtToGdpRatio": "33.92%",
+        "economicDescription": {
+            "country": "Brazil",
+            "economicForecast": "GDP growth is set to slow significantly this year from 2021. Investment is seen contracting amid higher interest rates and soft business sentiment, while growth in consumption and exports is set to slow. The outcome of October’s presidential elections, uncertainty over the fiscal position and the length of the commodity price boom are key factors to watch. FocusEconomics analysts see the economy expanding 1.0% in 2022, which is up 0.3 percentage points from last month’s forecast, and 1.2% in 2023.",
+            "economicOutlook": "owth picked up somewhat in Q1 according to recent data, underpinned by a strong positive contribution from the external sector, as exports of goods and services rose sharply. In contrast, private consumption growth was unchanged from Q4, while government consumption growth slowed and fixed investment contracted at the fastest pace since Q2 2021. Investment was likely restrained by higher interest rates and inflation, and political uncertainty ahead of the October general elections. Turning to Q2, available data suggests the economy continues to expand amid fiscal support and as the impact of the pandemic fades, with the manufacturing and services PMIs averaging higher in April–May relative to Q1, and the unemployment rate falling to a fresh multi-year low in April. That said, tighter monetary conditions and double-digit inflation will likely be weighing on activity somewhat.",
+            "timeStamp": "2022-12-20T02:07:38.203Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Brazil",
+            "articles": [
+                {
+                    "articleTitle": "Brazil economy ministry rejects Lula transition team's judgment on ...",
+                    "article": "https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2JyYXppbC1lY29ub215LW1pbmlzdHJ5LXJlamVjdHMtbHVsYS10cmFuc2l0aW9uLXRlYW1zLWp1ZGdtZW50LWZpbmFuY2VzLTIwMjItMTItMTEv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Lula's Finance Minister Says Budget Will Be Balanced With Social ...",
+                    "article": "https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE0L2hhZGRhZC1wcm9taXNlcy1sdWxhLXMtYnVkZ2V0LXdpbGwtYmUtYmFsYW5jZWQtd2l0aC1zb2NpYWwtcmVzcG9uc2liaWxpdHnSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Brazil's next Finmin Haddad says fiscal expansion won't help the ...",
+                    "article": "https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3Lm5hc2RhcS5jb20vYXJ0aWNsZXMvYnJhemlscy1uZXh0LWZpbm1pbi1oYWRkYWQtc2F5cy1maXNjYWwtZXhwYW5zaW9uLXdvbnQtaGVscC10aGUtZWNvbm9teS1ub3fSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Brazil's Economy Disappoints in 3Q After Bolsonaro's Stimulus Push",
+                    "article": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTAxL2JyYXppbC1zLWVjb25vbXktZGlzYXBwb2ludHMtYXMtYm9sc29uYXJvLXMtc3RpbXVsdXMtZmFsbHMtc2hvcnTSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Brazil's economic activity shrinks in October on rate hike impact",
+                    "article": "https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvYnJhemlscy1lY29ub21pYy1hY3Rpdml0eS1zaHJpbmtzLW9jdG9iZXItcmF0ZS1oaWtlLWltcGFjdC0yMDIyLTEyLTE0L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "As President of Brazil, Lula Could Usher in a New Global ...",
+                    "article": "https://news.google.com/articles/CBMiYWh0dHBzOi8vamFjb2Jpbi5jb20vMjAyMi8xMi9sdWxhLWJyaWNzLWVjb25vbWljLXNvdmVyZWlnbnR5LW11bHRpcG9sYXItd29ybGQtbm9uLWFsaWduZWQtbW92ZW1lbnTSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Brazil Economy Minister Guedes Meets Haddad in Sign Lula Will ...",
+                    "article": "https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0wOC9oYWRkYWQtbWVldHMtZ3VlZGVzLWluLXNpZ24tbHVsYS13aWxsLWFwcG9pbnQtaGltLWFzLWZpbmFuY2UtbWluaXN0ZXItaW4tYnJhemls0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Brazil's Guedes predicts monetary easing by mid 2023, GDP rising 3%",
+                    "article": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2JyYXppbHMtZ3VlZGVzLXByZWRpY3RzLW1vbmV0YXJ5LWVhc2luZy1ieS1taWQtMjAyMy1nZHAtcmlzaW5nLTMtMjAyMi0xMi0xNS_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Brazil's gross debt to fall to 74.3% of GDP in 2022, says Guedes",
+                    "article": "https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL2JyYXppbHMtZ3Jvc3MtZGVidC1mYWxsLTc0My1nZHAtMjAyMi1zYXlzLWd1ZWRlcy0yMDIyLTExLTIyL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "EWZ: Political Risks Add To Uncertainty For Brazil Stocks Into 2023",
+                    "article": "https://news.google.com/articles/CBMidGh0dHBzOi8vc2Vla2luZ2FscGhhLmNvbS9hcnRpY2xlLzQ1NjQ3NjQtZXd6LXRleHRib29rLXBvbGl0aWNhbC1yaXNrcy1hZGQtdG8tdW5jZXJ0YWludHktZm9yLWJyYXppbC1zdG9ja3MtaW50by0yMDIz0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:01.366Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Canada",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+        "population": "37,759,006",
+        "nationalDebt": "$1,961,740,555,162",
+        "gdpGrossDomesticProduct": "$1,835,504,076,217",
+        "publicDebtToGdpRatio": "106.88%",
+        "externalDebtToGdpRatio": "103.61%",
+        "economicDescription": {
+            "country": "Canada",
+            "economicForecast": "Growth will ease in 2022 as interest rates and inflation increase and momentum in the U.S. slows. Nevertheless, a tighter labor market and reduced Covid-19 restrictions will support private spending. Moreover, higher oil and gas prices will buoy government coffers. Uncertainty surrounding possible new Covid-19 variants and fears of recession in the U.S. are risks. FocusEconomics analysts project growth of 4.0% in 2022, which is up 0.1 percentage points from last month. In 2023, our analysts see growth easing to 2.5%.",
+            "economicOutlook": "ter gaining momentum in Q4 2021, preliminary data suggests the economy outperformed its G7 peers in Q1, with StatCan estimating growth of 1.4% quarter-on-quarter. Looking at the monthly picture, economic activity growth was muted in January due to Omicron and poor weather affecting energy output. However, momentum picked up in February thanks to healthy expansions in manufacturing and customer-facing services. In particular, the accommodation and food services sector saw a double-digit gain as the Omicron wave faded and associated restrictions were eased. Turning to Q2, available signs are mainly positive. In April, the unemployment rate fell to an all-time low, while the manufacturing PMI was well in expansionary territory and housing starts jumped, boding well for residential investment. However, multi-decade high inflation could be weighing somewhat on spending intentions.",
+            "timeStamp": "2022-12-20T02:07:40.710Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Canada",
+            "articles": [
+                {
+                    "articleTitle": "Bank of Canada missed the mark on rising inflation, Tiff Macklem says, but a turnaround is near",
+                    "article": "https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vYnVzaW5lc3MvYXJ0aWNsZS10aWZmLW1hY2tsZW0ta25vd3MtaGUtaGFzLXNvbWUtZXhwbGFpbmluZy10by1kby_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "B.C. economic growth to ‘slow more sharply’ than rest of Canada in 2023: TD",
+                    "article": "https://news.google.com/articles/CBMiWGh0dHBzOi8vYml2LmNvbS9hcnRpY2xlLzIwMjIvMTIvYmMtZWNvbm9taWMtZ3Jvd3RoLXNsb3ctbW9yZS1zaGFycGx5LXJlc3QtY2FuYWRhLTIwMjMtdGTSAVxodHRwczovL2Jpdi5jb20vYXJ0aWNsZS8yMDIyLzEyL2JjLWVjb25vbWljLWdyb3d0aC1zbG93LW1vcmUtc2hhcnBseS1yZXN0LWNhbmFkYS0yMDIzLXRkP2FtcA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Job vacancies fell in the third quarter after hitting record high: StatCan - National | Globalnews.ca",
+                    "article": "https://news.google.com/articles/CBMiUWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzkzNTg3NjQvam9iLXZhY2FuY2llcy10aGlyZC1xdWFydGVyLXN0YXRpc3RpY3MtY2FuYWRhL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "CANADA STOCKS-Toronto market hits 8-week low in broad-based selloff",
+                    "article": "https://news.google.com/articles/CBMiT2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jYW5hZGEtc3RvY2tzLXRvcm9udG8tbWFya2V0LWhpdHMtMjEzMzAxOTA2Lmh0bWzSAVdodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9jYW5hZGEtc3RvY2tzLXRvcm9udG8tbWFya2V0LWhpdHMtMjEzMzAxOTA2Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Canada Is In Recession & “Overvalued” Real Estate Will Be Hard Hit: Oxford Econ - Better Dwelling",
+                    "article": "https://news.google.com/articles/CBMiZmh0dHBzOi8vYmV0dGVyZHdlbGxpbmcuY29tL2NhbmFkYS1pcy1pbi1yZWNlc3Npb24tb3ZlcnZhbHVlZC1yZWFsLWVzdGF0ZS13aWxsLWJlLWhhcmQtaGl0LW94Zm9yZC1lY29uL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Job Vacancies Fall 3.3% in Canada, First Quarterly Decline Since Pandemic",
+                    "article": "https://news.google.com/articles/CBMiR2h0dHBzOi8vY2EuZmluYW5jZS55YWhvby5jb20vbmV3cy9qb2ItdmFjYW5jaWVzLWZhbGwtMy0zLTE1MTQwOTU0OS5odG1s0gFPaHR0cHM6Ly9jYS5maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3Mvam9iLXZhY2FuY2llcy1mYWxsLTMtMy0xNTE0MDk1NDkuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Rate hikes could cast long shadow as Bank of Canada approaches pause",
+                    "article": "https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vYnVzaW5lc3MvYXJ0aWNsZS1iYW5rLW9mLWNhbmFkYS1pbnRlcmVzdC1yYXRlLWhpa2VzLXBhdXNlL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Young Canadians pessimistic about economy in 2023: survey",
+                    "article": "https://news.google.com/articles/CBMinwFodHRwczovL3d3dy5jdHZuZXdzLmNhL2J1c2luZXNzL21vc3QteW91bmctcGVvcGxlLWRvbi10LXNlZS1jYW5hZGEtcy1lY29ub21pYy1zaXR1YXRpb24taW1wcm92aW5nLW5leHQteWVhci1tb3JlLWxpa2VseS10by1zdGF5LWluLWN1cnJlbnQtam9icy1sZWdlci0xLjYxOTcyNDPSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Inflation, housing, Russia: Here's where the IMF says Canada's economy is most at risk - National | Globalnews.ca",
+                    "article": "https://news.google.com/articles/CBMiVWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzkzMzc1ODMvaW5mbGF0aW9uLWhvdXNpbmctcnVzc2lhLWltZi1jYW5hZGEtZWNvbm9teS1yaXNrcy_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Canada's Economy Starts to Sputter as Housing Investment Plunges",
+                    "article": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTExLTI5L2NhbmFkYS1zLWVjb25vbXktc3RhcnRzLXRvLXNwdXR0ZXItYWZ0ZXItMi05LWFubnVhbGl6ZWQtZ2FpbtIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:04.875Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Argentina",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2560px-Flag_of_Argentina.svg.png",
+        "population": "45,212,684",
+        "nationalDebt": "$369,657,844,720",
+        "gdpGrossDomesticProduct": "$433,952,375,428",
+        "publicDebtToGdpRatio": "85.19%",
+        "externalDebtToGdpRatio": "58.32%",
+        "economicDescription": {
+            "country": "Argentina",
+            "economicForecast": "The pace of economic growth looks set to moderate this year due to a tougher base of comparison. Elevated inflation and frail macro fundamentals will restrain domestic demand, weighing on growth. Downbeat investor sentiment amid an unclear policy agenda poses a downside risk. Conversely, a timely implementation of the recent IMF deal poses an upside risk. LatinFocus Consensus panelists see the economy growing 2.9% in 2022, which is up 0.1 percentage points from last month’s estimate, and 1.7% in 2023.",
+            "economicOutlook": "The economy seemingly moved into a lower gear in Q1. Annual growth in economic activity slowed in the quarter. Moreover, consumer confidence dropped further, while inflation spiked. On top of this, the industrial sector expanded at a weaker pace than in Q4. Turning to Q2, a further deterioration in consumer confidence in April-May, coupled with rising inflation, bodes poorly for household spending and overall activity. Meanwhile, the country recently postponed payments on its over USD 2 billion debt to the Paris Club group until 2024 or until a new framework is agreed. Moreover, the government launched a tender to build a new gas pipeline from the Vaca Muerta shale formation, which could increase transport capacity by 25%, and is encouraging investment in the project. Finally, in order to reduce the fiscal deficit, an 'extraordinary income' tax was announced in June, which should mainly affect the grains industry.",
+            "timeStamp": "2022-12-20T02:07:43.227Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Argentina",
+            "articles": [
+                {
+                    "articleTitle": "Argentina, caught in economic depression, gets something to cheer in World Cup win",
+                    "article": "https://news.google.com/articles/CBMigAFodHRwczovL3d3dy5wb2xpdGljby5ldS9hcnRpY2xlL2FyZ2VudGluYS1mcmFuY2UtY2F1Z2h0LWVjb25vbWljLWRlcHJlc3Npb24tcmVsaWVmLXdvcmxkLWN1cC12aWN0b3J5LWxpb25lbC1tZXNzaS1reWxpYW4tbWJhcHBlL9IBhAFodHRwczovL3d3dy5wb2xpdGljby5ldS9hcnRpY2xlL2FyZ2VudGluYS1mcmFuY2UtY2F1Z2h0LWVjb25vbWljLWRlcHJlc3Npb24tcmVsaWVmLXdvcmxkLWN1cC12aWN0b3J5LWxpb25lbC1tZXNzaS1reWxpYW4tbWJhcHBlL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Argentina Wins Another World Cup. Now They Have a Chance to Fix Their Economy | Opinion",
+                    "article": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9hcmdlbnRpbmEtd2lucy1hbm90aGVyLXdvcmxkLWN1cC1ub3ctdGhleS1oYXZlLWNoYW5jZS1maXgtdGhlaXItZWNvbm9teS1vcGluaW9uLTE3NjgyMzTSAXZodHRwczovL3d3dy5uZXdzd2Vlay5jb20vYXJnZW50aW5hLXdpbnMtYW5vdGhlci13b3JsZC1jdXAtbm93LXRoZXktaGF2ZS1jaGFuY2UtZml4LXRoZWlyLWVjb25vbXktb3Bpbmlvbi0xNzY4MjM0P2FtcD0x?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "ExplainSpeaking: The messy economy of Messi’s Argentina | Explained News",
+                    "article": "https://news.google.com/articles/CBMiigFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZXhwbGFpbmVkL2V4cGxhaW5lZC1lY29ub21pY3MvZXhwbGFpbnNwZWFraW5nLWZpZmEtd29ybGQtY3VwLWFyZ2VudGluYS1lY29ub215LWxpb25lbC1tZXNzaS13aW4tODMzMjAwMy_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Inflation spikes to 92% as economic growth picks up",
+                    "article": "https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LmJhdGltZXMuY29tLmFyL25ld3MvZWNvbm9teS9hcmdlbnRpbmEtaW5mbGF0aW9uLXNwaWtlcy10by05Mi1hcy1lY29ub21pYy1ncm93dGgtcGlja3MtdXAucGh0bWzSAW5odHRwczovL3d3dy5iYXRpbWVzLmNvbS5hci9uZXdzL2FtcC9lY29ub215L2FyZ2VudGluYS1pbmZsYXRpb24tc3Bpa2VzLXRvLTkyLWFzLWVjb25vbWljLWdyb3d0aC1waWNrcy11cC5waHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Vicky-Katrina Fly Economy; SRK-Deepika Colour Argentina vs France FIFA 2022 Finals With Pathaan",
+                    "article": "https://news.google.com/articles/CBMimAFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3MvbW92aWVzL3ZpY2t5LWthdXNoYWwta2F0cmluYS1rYWlmLWZseS1lY29ub215LXBhdGhhYW4tc2hhaC1ydWtoLWtoYW4tZGVlcGlrYS1wYWR1a29uZS1maWZhLTIwMjItd29ybGQtY3VwLWZpbmFsLTY2NDQ2MjMuaHRtbNIBnAFodHRwczovL3d3dy5uZXdzMTguY29tL2FtcC9uZXdzL21vdmllcy92aWNreS1rYXVzaGFsLWthdHJpbmEta2FpZi1mbHktZWNvbm9teS1wYXRoYWFuLXNoYWgtcnVraC1raGFuLWRlZXBpa2EtcGFkdWtvbmUtZmlmYS0yMDIyLXdvcmxkLWN1cC1maW5hbC02NjQ0NjIzLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "World Cup win could be an economic boon for Argentina",
+                    "article": "https://news.google.com/articles/CBMiZmh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS93b3JsZC93b3JsZC1jdXAtd2luLWNvdWxkLWJlLWFuLWVjb25vbWljLWJvb24tZm9yLWFyZ2VudGluYS04MzI5MzU2L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "World Cup: Lionel Messi mania diverts Argentina from its economic problems",
+                    "article": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50Lzk0ZWQ1MjZiLWMwYmItNDk0OC04OGQ5LWNkODhmZDY3YmExYtIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Argentina's populist political movement is at its lowest ebb",
+                    "article": "https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vdGhlLWFtZXJpY2FzLzIwMjIvMTIvMTUvYXJnZW50aW5hcy1wb3B1bGlzdC1wb2xpdGljYWwtbW92ZW1lbnQtaXMtYXQtaXRzLWxvd2VzdC1lYmLSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Messi World Cup Win Brings Joy to Argentina",
+                    "article": "https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE4L21lc3NpLXdvcmxkLWN1cC13aW4tYnJpbmdzLWpveS10by1hcmdlbnRpbmHSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "FIFA World Cup Final: Winner Could Bring GDP Boost to France or ...",
+                    "article": "https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE2L3dpbm5pbmctMjAyMi1maWZhLXdvcmxkLWN1cC1jb3VsZC1icmluZy1nZHAtYm9vc3QtdG8tZnJhbmNlLW9yLWFyZ2VudGluYdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:08.399Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Australia",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/1024px-Flag_of_Australia.svg.png",
+        "population": "25,517,961",
+        "nationalDebt": "$710,455,783,458",
+        "gdpGrossDomesticProduct": "$1,540,687,030,754",
+        "publicDebtToGdpRatio": "46.11%",
+        "externalDebtToGdpRatio": "131.50%",
+        "economicDescription": {
+            "country": "Australia",
+            "economicForecast": "The economy looks set for a healthy expansion this year. Solid labor market dynamics, pent-up spending and faster wage growth should feed household spending. Moreover, the external sector will benefit from sustained global demand for commodities and the reopening of borders. Global supply disruptions and tensions with China pose risks. FocusEconomics panelists project GDP to expand 3.9% in 2022, which is down 0.1 percentage points from last month’s estimate. In 2023, the economy is seen growing 2.7%.",
+            "economicOutlook": "Sequential GDP growth softened but beat market projections in the first quarter. Consumer spending slowed considerably due to a normalization of the pace of growth and the spread of the Omicron variant. Meanwhile, exports shrank at a sharper pace amid a less favorable external environment. Activity is seemingly expanding at a healthy pace in Q2. Consumer spending has likely continued to increase, supported by accumulated savings, as suggested by a tight labor market in April and May and retail sales growth in April. That said, plunging consumer sentiment throughout the quarter calls for caution. Moreover, falling business confidence in April and May indicates cooling business investment. Meanwhile, in a bid to address the country’s power crisis and avoid potential blackouts, authorities recently assumed emergency powers to block coal exports.",
+            "timeStamp": "2022-12-20T02:07:45.741Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Australia",
+            "articles": [
+                {
+                    "articleTitle": "Australia owes its boom to China. It should think twice about moving on",
+                    "article": "https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5zY21wLmNvbS9jb21tZW50L29waW5pb24vYXJ0aWNsZS8zMjAzNjg3L2F1c3RyYWxpYS1vd2VzLWl0cy1lY29ub21pYy1ib29tLWNoaW5hLWFuZC1pdC1zaG91bGQtdGhpbmstdHdpY2UtYWJvdXQtbW92aW5n0gGCAWh0dHBzOi8vYW1wLnNjbXAuY29tL2NvbW1lbnQvb3Bpbmlvbi9hcnRpY2xlLzMyMDM2ODcvYXVzdHJhbGlhLW93ZXMtaXRzLWVjb25vbWljLWJvb20tY2hpbmEtYW5kLWl0LXNob3VsZC10aGluay10d2ljZS1hYm91dC1tb3Zpbmc?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Australia's economy slows in Q3 as higher rates, prices sap ...",
+                    "article": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9hdXN0cmFsaWEtZWNvbm9teS1zbG93cy1xMy1pbmZsYXRpb24tc2Fwcy1zcGVuZGluZy1wb3dlci0yMDIyLTEyLTA3L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Australia Economy GDP Grows Slower as Household Spending ...",
+                    "article": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTA3L2F1c3RyYWxpYW4tZWNvbm9teS1zbG93cy1ldmVuLWFzLWhvdXNlaG9sZHMtc2hvdy1yYXRlLXJlc2lsaWVuY2XSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Australia’s GDP grew 0.6% in September quarter and 5.9% annually as economy recovered from Covid lockdowns",
+                    "article": "https://news.google.com/articles/CBMilgFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAyMi9kZWMvMDcvYXVzdHJhbGlhcy1nZHAtZ3Jldy0wNi1pbi1zZXB0ZW1iZXItcXVhcnRlci1hbmQtNTktYW5udWFsbHktYXMtZWNvbm9teS1yZWNvdmVyZWQtZnJvbS1jb3ZpZC1sb2NrZG93bnPSAZYBaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzLzIwMjIvZGVjLzA3L2F1c3RyYWxpYXMtZ2RwLWdyZXctMDYtaW4tc2VwdGVtYmVyLXF1YXJ0ZXItYW5kLTU5LWFubnVhbGx5LWFzLWVjb25vbXktcmVjb3ZlcmVkLWZyb20tY292aWQtbG9ja2Rvd25z?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "The reasons why Australia’s economy is slowing",
+                    "article": "https://news.google.com/articles/CBMiSGh0dHBzOi8vdGhpbmsuaW5nLmNvbS9hcnRpY2xlcy9yZWFzb25zLXdoeS1hdXN0cmFsaWEtZWNvbm9teS1pcy1zbG93aW5nL9IBS2h0dHBzOi8vdGhpbmsuaW5nLmNvbS9hbXAvYXJ0aWNsZS9yZWFzb25zLXdoeS1hdXN0cmFsaWEtZWNvbm9teS1pcy1zbG93aW5nLw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Australia Economy Adds 64K Jobs In November",
+                    "article": "https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LnJ0dG5ld3MuY29tLzMzMzIwNTYvYXVzdHJhbGlhLWVjb25vbXktYWRkcy02NGstam9icy1pbi1ub3ZlbWJlci5hc3B40gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Australia's economy remains afloat – but there are choppy waters ...",
+                    "article": "https://news.google.com/articles/CBMigAFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvZ3JvZ29ub21pY3MvMjAyMi9ub3YvMjQvYXVzdHJhbGlhcy1lY29ub215LXJlbWFpbnMtYWZsb2F0LWJ1dC10aGVyZS1hcmUtY2hvcHB5LXdhdGVycy1haGVhZNIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Australia's central bank considered pausing hikes at December meeting, still sees more ahead",
+                    "article": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMjAvYXVzdHJhbGlhcy1jZW50cmFsLWJhbmstY29uc2lkZXJlZC1wYXVzaW5nLWhpa2VzLWF0LWRlY2VtYmVyLW1lZXRpbmcuaHRtbNIBbWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzEyLzIwL2F1c3RyYWxpYXMtY2VudHJhbC1iYW5rLWNvbnNpZGVyZWQtcGF1c2luZy1oaWtlcy1hdC1kZWNlbWJlci1tZWV0aW5nLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Australia facing economic time bomb amid surging interest rates",
+                    "article": "https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnN0cmFpdHN0aW1lcy5jb20vYXNpYS9hdXN0cmFsaWFuei9hdXN0cmFsaWEtZmFjaW5nLWVjb25vbWljLXRpbWUtYm9tYi1hbWlkLXN1cmdpbmctaW50ZXJlc3QtcmF0ZXPSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Australia will see more extreme weather events, putting strain on economy, report shows",
+                    "article": "https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMi8xMS8yMy9idXNpbmVzcy9hdXN0cmFsaWEtZXh0cmVtZS13ZWF0aGVyLWVjb25vbXktc3RyYWluLWNsaW1hdGUtaW50bC1obmsvaW5kZXguaHRtbNIBcGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjIvMTEvMjMvYnVzaW5lc3MvYXVzdHJhbGlhLWV4dHJlbWUtd2VhdGhlci1lY29ub215LXN0cmFpbi1jbGltYXRlLWludGwtaG5rL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:11.926Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Belgium",
+        "countryFlag": "https://www.worldatlas.com/r/w1200/img/flag/be-flag.jpg",
+        "population": "11,597,862",
+        "nationalDebt": "$726,372,050,559",
+        "gdpGrossDomesticProduct": "$599,936,557,401",
+        "publicDebtToGdpRatio": "121.08%",
+        "externalDebtToGdpRatio": "252.38%",
+        "economicDescription": {
+            "country": "Belgium",
+            "economicForecast": "External headwinds are expected to curb economic growth this year. Private consumption and investment momentum will likely decline amid a drop in consumer confidence and soaring prices. Industrial output will also be affected by Russian energy dependency and a global decline in vaccine demand. That said, European funds will support private investment. FocusEconomics analysts see the economy expanding 2.3% in 2022, which is down 0.1 percentage points from last month’s forecast, and 1.8% in 2023.",
+            "economicOutlook": "tput grew at a reduced pace in Q1 2022 compared to Q4 2021, chiefly driven by a contraction in industry. That said, the services and construction sectors expanded at healthy paces and unemployment continued its downward trend. Since March, growth is likely sluggish, affected by the global slowdown in demand and high inflation. Industrial production is likely being affected by the sector’s elevated dependency on Russian gas, high prices for which will squeeze firms’ profit margins. Moreover, consumer confidence remained severely downbeat in April and May, likely weakening consumption in the quarter. That said, business confidence held up through May, which could be supporting investment intentions. Finally, in a May report the European Commission recommended that Belgium focus on addressing fiscal sustainability challenges, excessive red tape and the low participation rate.",
+            "timeStamp": "2022-12-20T02:07:48.254Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Belgium",
+            "articles": [
+                {
+                    "articleTitle": "Analysis: EU unity over Russia sanctions falters as Europe's ...",
+                    "article": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2V1LXVuaXR5LW92ZXItcnVzc2lhLXNhbmN0aW9ucy1mYWx0ZXJzLWV1cm9wZXMtZWNvbm9teS13aWx0cy0yMDIyLTEyLTE2L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "EU Cohesion Policy: almost €3 billion for Belgium's green and ...",
+                    "article": "https://news.google.com/articles/CBMiQGh0dHBzOi8vZWMuZXVyb3BhLmV1L2NvbW1pc3Npb24vcHJlc3Njb3JuZXIvZGV0YWlsL2VzL2lwXzIyXzc2NzPSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "European Union approves cap on natural gas prices",
+                    "article": "https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMTkvZXVyb3BlYW4tdW5pb24tYXBwcm92ZXMtY2FwLW9uLW5hdHVyYWwtZ2FzLXByaWNlcy5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Sharjah explores partnership opportunities with Belgium",
+                    "article": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3Lnphd3lhLmNvbS9lbi9lY29ub215L2djYy9zaGFyamFoLWV4cGxvcmVzLXBhcnRuZXJzaGlwLW9wcG9ydHVuaXRpZXMtd2l0aC1iZWxnaXVtLXVrNnlheXJv0gFraHR0cHM6Ly93d3cuemF3eWEuY29tL2VuL2Vjb25vbXkvZ2NjL3NoYXJqYWgtZXhwbG9yZXMtcGFydG5lcnNoaXAtb3Bwb3J0dW5pdGllcy13aXRoLWJlbGdpdW0tdWs2eWF5cm8_YW1wPTE?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Workers in Belgium can now switch to a four-day week - but they won’t be working fewer hours",
+                    "article": "https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5ldXJvbmV3cy5jb20vbmV4dC8yMDIyLzExLzIxL3dvcmtlcnMtaW4tYmVsZ2l1bS1jYW4tbm93LXN3aXRjaC10by1hLWZvdXItZGF5LXdlZWstYnV0LXRoZXktd29udC1iZS13b3JraW5nLWZld2VyLWhvdXJz0gGGAWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS9uZXh0L2FtcC8yMDIyLzExLzIxL3dvcmtlcnMtaW4tYmVsZ2l1bS1jYW4tbm93LXN3aXRjaC10by1hLWZvdXItZGF5LXdlZWstYnV0LXRoZXktd29udC1iZS13b3JraW5nLWZld2VyLWhvdXJz?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Marcos visit to Belgium to boost investor confidence – analyst",
+                    "article": "https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3Lm1hbmlsYXRpbWVzLm5ldC8yMDIyLzEyLzE1L25ld3MvbmF0aW9uYWwvbWFyY29zLXZpc2l0LXRvLWJlbGdpdW0tdG8tYm9vc3QtaW52ZXN0b3ItY29uZmlkZW5jZS1hbmFseXN0LzE4NzAzNTfSAX1odHRwczovL3d3dy5tYW5pbGF0aW1lcy5uZXQvMjAyMi8xMi8xNS9uZXdzL25hdGlvbmFsL21hcmNvcy12aXNpdC10by1iZWxnaXVtLXRvLWJvb3N0LWludmVzdG9yLWNvbmZpZGVuY2UtYW5hbHlzdC8xODcwMzU3L2FtcA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Air Liquide, Fluxys Belgium and Port of Antwerp-Bruges awarded ...",
+                    "article": "https://news.google.com/articles/CBMiogFodHRwczovL3d3dy5haXJsaXF1aWRlLmNvbS9ncm91cC9wcmVzcy1yZWxlYXNlcy1uZXdzLzIwMjItMTItMTIvYWlyLWxpcXVpZGUtZmx1eHlzLWJlbGdpdW0tYW5kLXBvcnQtYW50d2VycC1icnVnZXMtYXdhcmRlZC1ldS1mdW5kaW5nLWJ1aWxkaW5nLWFudHdlcnBjLWNvMi1leHBvcnTSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "PM invites Belgians to up Vietnam business investment",
+                    "article": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vZS52bmV4cHJlc3MubmV0L25ld3MvZWNvbm9teS9wbS1pbnZpdGVzLWJlbGdpYW5zLXRvLXVwLXZpZXRuYW0tYnVzaW5lc3MtaW52ZXN0bWVudC00NTQ5MDYwLmh0bWzSAWpodHRwczovL2FtcGUudm5leHByZXNzLm5ldC9uZXdzL2Vjb25vbXkvcG0taW52aXRlcy1iZWxnaWFucy10by11cC12aWV0bmFtLWJ1c2luZXNzLWludmVzdG1lbnQtNDU0OTA2MC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Belgium’s trade in Russian diamonds continues despite moral pressure",
+                    "article": "https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIyL25vdi8yMC9iZWxnaXVtLXRyYWRlLXJ1c3NpYW4tZGlhbW9uZHMtZGVzcGl0ZS1tb3JhbC1wcmVzc3VyZdIBY2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIyL25vdi8yMC9iZWxnaXVtLXRyYWRlLXJ1c3NpYW4tZGlhbW9uZHMtZGVzcGl0ZS1tb3JhbC1wcmVzc3VyZQ?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Uttar Pradesh minister says state’s investment road shows in Germany, Belgium, Sweden have received encouraging response",
+                    "article": "https://news.google.com/articles/CBMivgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2x1Y2tub3ctbmV3cy91dHRhci1wcmFkZXNoLW1pbmlzdGVyLXNheXMtc3RhdGUtcy1pbnZlc3RtZW50LXJvYWQtc2hvd3MtaW4tZ2VybWFueS1iZWxnaXVtLXN3ZWRlbi1oYXZlLXJlY2VpdmVkLWVuY291cmFnaW5nLXJlc3BvbnNlLTEwMTY3MTM4ODIwOTI5NS5odG1s0gHCAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9jaXRpZXMvbHVja25vdy1uZXdzL3V0dGFyLXByYWRlc2gtbWluaXN0ZXItc2F5cy1zdGF0ZS1zLWludmVzdG1lbnQtcm9hZC1zaG93cy1pbi1nZXJtYW55LWJlbGdpdW0tc3dlZGVuLWhhdmUtcmVjZWl2ZWQtZW5jb3VyYWdpbmctcmVzcG9uc2UtMTAxNjcxMzg4MjA5Mjk1LWFtcC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:15.442Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Greece",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/4/45/Flag_of_Greece_%28alternative%29.svg",
+        "population": "10,422,400",
+        "nationalDebt": "$545,320,670,879",
+        "gdpGrossDomesticProduct": "$228,631,503,314",
+        "publicDebtToGdpRatio": "238.52%",
+        "externalDebtToGdpRatio": "261.70%",
+        "economicDescription": {
+            "country": "Greece",
+            "economicForecast": "GDP growth is forecast to cool this year, partly due to deteriorating external demand and soaring inflation. That said, EU financial support for Greece is amongst the largest in the EU, which should support output. Additionally, a restriction-free tourism season bodes well for activity. High public debt and poor tax collection capabilities remain key downside risks. FocusEconomics panelists see GDP growing 3.2% in 2022, which is down 0.2 percentage points from last month’s projection. In 2023, the panel sees the economy expanding 3.5%.",
+            "economicOutlook": "put growth was likely resilient in the first quarter of this year. The services sector benefited from an improving labor market and reduced Covid restrictions while industrial output grew at the fastest pace in 16 months in March. That said, the manufacturing PMI dipped to an 11-month low in March, as the fallout from the Russia-Ukraine war hit sentiment. Moreover, consumer confidence worsened during the quarter amid soaring prices, which could have limited private consumption. In Q2, the economy is likely losing steam. In April, consumer confidence continued to worsen and inflation rose to the highest level in 27 years, which is likely tempering private spending. However, the manufacturing PMI improved slightly in April. Meanwhile, in early May, Greece removed virtually all remaining Covid-19 restrictions, which should help spur the tourism industry heading into the summer season.",
+            "timeStamp": "2022-12-20T02:07:50.748Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Greece",
+            "articles": [
+                {
+                    "articleTitle": "The Economist Ranks Greece #1 In \"2022’s Unlikely Economic Winners\" List",
+                    "article": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZ3JlZWtjaXR5dGltZXMuY29tLzIwMjIvMTIvMTkvdGhlLWVjb25vbWlzdC1yYW5rcy1ncmVlY2UtMS_SAXBodHRwczovL2dyZWVrY2l0eXRpbWVzLmNvbS8yMDIyLzEyLzE5L3RoZS1lY29ub21pc3QtcmFua3MtZ3JlZWNlLTEvYW1wLz8yMDIyLzEyLzE5L3RoZS1lY29ub21pc3QtcmFua3MtZ3JlZWNlLTEv?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Greek economy shrinks in Q3 on higher imports, lower public ...",
+                    "article": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2dyZWVrLWVjb25vbXktc2hyaW5rcy0wNS1xcS1xMy0yMDIyLTEyLTA3L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Greek economy to grow by 1.8% in 2023, rebound hurt by energy ...",
+                    "article": "https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2dyZWVjZXMtZmluYWwtYnVkZ2V0LXNlZXMtZ3Jvd3RoLTE4LTIwMjMtMjAyMi0xMS0yMS_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Tourism Will Play A Key Role In Greece's Economic Growth In 2023",
+                    "article": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZ3JlZWtjaXR5dGltZXMuY29tLzIwMjIvMTIvMTYvdG91cmlzbS1ncmVlY2UtZWNvbm9taWMtMjAyMy_SAXBodHRwczovL2dyZWVrY2l0eXRpbWVzLmNvbS8yMDIyLzEyLzE2L3RvdXJpc20tZ3JlZWNlLWVjb25vbWljLTIwMjMvYW1wLz8yMDIyLzEyLzE2L3RvdXJpc20tZ3JlZWNlLWVjb25vbWljLTIwMjMv?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Greece goes all in on becoming Europe’s next hot technology hub",
+                    "article": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE2L2dyZWVjZS1nb2VzLWFsbC1pbi1vbi1iZWNvbWluZy1ldXJvcGUtcy1uZXh0LWhvdC10ZWNobm9sb2d5LWh1YtIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Greece repays eurozone bailout loans early for first time, source says",
+                    "article": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmVrYXRoaW1lcmluaS5jb20vZWNvbm9teS8xMjAwMzU3L2dyZWVjZS1yZXBheXMtZXVyby16b25lLWJhaWxvdXQtbG9hbnMtZWFybHktZm9yLWZpcnN0LXRpbWUtc291cmNlL9IBc2h0dHBzOi8vd3d3LmVrYXRoaW1lcmluaS5jb20vZWNvbm9teS8xMjAwMzU3L2dyZWVjZS1yZXBheXMtZXVyby16b25lLWJhaWxvdXQtbG9hbnMtZWFybHktZm9yLWZpcnN0LXRpbWUtc291cmNlL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Do miracles happen in Greece?",
+                    "article": "https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LmVrYXRoaW1lcmluaS5jb20vb3Bpbmlvbi8xMTk4ODI2L2RvLW1pcmFjbGVzLWhhcHBlbi1pbi1ncmVlY2Uv0gFOaHR0cHM6Ly93d3cuZWthdGhpbWVyaW5pLmNvbS9vcGluaW9uLzExOTg4MjYvZG8tbWlyYWNsZXMtaGFwcGVuLWluLWdyZWVjZS9hbXAv?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Greece House Price Crash | Everything You Need to Know",
+                    "article": "https://news.google.com/articles/CBMiLGh0dHBzOi8vY2FwaXRhbC5jb20vZ3JlZWNlLWhvdXNlLXByaWNlLWNyYXNo0gEwaHR0cHM6Ly9jYXBpdGFsLmNvbS9hbXAvZ3JlZWNlLWhvdXNlLXByaWNlLWNyYXNo?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Greek Economy Sees Growth In Third Quarter",
+                    "article": "https://news.google.com/articles/CBMiQmh0dHBzOi8vZ3JlZWtjaXR5dGltZXMuY29tLzIwMjIvMTIvMDgvZ3JlZWstZWNvbm9teS10aGlyZC1xdWFydGVyL9IBbmh0dHBzOi8vZ3JlZWtjaXR5dGltZXMuY29tLzIwMjIvMTIvMDgvZ3JlZWstZWNvbm9teS10aGlyZC1xdWFydGVyL2FtcC8_MjAyMi8xMi8wOC9ncmVlay1lY29ub215LXRoaXJkLXF1YXJ0ZXIv?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Top economics news December 2022: US banks warn of recession",
+                    "article": "https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LndlZm9ydW0ub3JnL2FnZW5kYS8yMDIyLzEyL3RvcC1lY29ub215LXN0b3JpZXMtZGVjZW1iZXItOC_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:18.950Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Indonesia",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/255px-Flag_of_Indonesia.svg.png",
+        "population": "273,676,507",
+        "nationalDebt": "$400,079,119,240",
+        "gdpGrossDomesticProduct": "$1,238,375,584,897",
+        "publicDebtToGdpRatio": "32.31%",
+        "externalDebtToGdpRatio": "32.85%",
+        "economicDescription": {
+            "country": "Indonesia",
+            "economicForecast": "GDP should expand at a faster clip this year amid accelerating household spending and private investment. Less stringent Covid-19 restrictions and supportive monetary policy should fuel domestic demand. Moreover, the external sector stands to strengthen from higher commodity prices. That said, concerns over rising inflation and political uncertainty weigh on the outlook. FocusEconomics Consensus Forecast panelists expect GDP to expand 5.1% in 2022, which is unchanged from last month’s forecast. GDP is seen growing 5.0% in 2023.",
+            "economicOutlook": "On the heels of a stable year-on-year GDP growth figure in Q1, the economy appears to be losing momentum in the second quarter. Domestically, private spending likely weakened: Retail sales slowed to an eight-month low in May amid a broad-based deterioration, while inflation rose to its highest level in over three years. Moreover, persistent supply constraints led the manufacturing PMI to moderate notably in May. Similarly, although the external sector likely benefitted from surging commodity prices, merchandise exports growth cooled remarkably in May. The slowdown came after the country implemented a controversial ban on palm oil exports in May, which it quickly reversed after three weeks amid widespread criticism. In response, President Joko Widodo dismissed the trade minister and reshuffled his cabinet on 15 June. Nonetheless, the policy reversal stands to rally exports ahead.",
+            "timeStamp": "2022-12-20T02:07:53.245Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Indonesia",
+            "articles": [
+                {
+                    "articleTitle": "Indonesia Recession | Is Indonesia In a Recession?",
+                    "article": "https://news.google.com/articles/CBMiWWh0dHBzOi8vY2FwaXRhbC5jb20vaW5kb25lc2lhLXJlY2Vzc2lvbi1ncm93dGgtaW5mbGF0aW9uLWJpLWludGVyZXN0LXJhdGVzLWVjb25vbXktZ3Jvd3Ro0gFdaHR0cHM6Ly9jYXBpdGFsLmNvbS9hbXAvaW5kb25lc2lhLXJlY2Vzc2lvbi1ncm93dGgtaW5mbGF0aW9uLWJpLWludGVyZXN0LXJhdGVzLWVjb25vbXktZ3Jvd3Ro?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "10th Annual U.S.-Indonesia Investment Summit Calls for Continued ...",
+                    "article": "https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LnVzY2hhbWJlci5jb20vaW50ZXJuYXRpb25hbC8xMHRoLWFubnVhbC11LXMtaW5kb25lc2lhLWludmVzdG1lbnQtc3VtbWl0LWNhbGxzLWZvci1jb250aW51ZWQtZWNvbm9taWMtcmVmb3Jt0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Why Indonesia Financial Reform Plan Has Investors on Edge: Q&A",
+                    "article": "https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTEyL3doeS1pbmRvbmVzaWEtcy1vbW5pYnVzLWxhdy1vbi1maW5hbmNpYWwtcmVmb3JtLWhhcy1pbnZlc3RvcnMtb24tZWRnZS1xLWHSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Indonesia’s Politics May Cast Shadow Over Its Economic Plans",
+                    "article": "https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL2luZG9uZXNpYXMtcG9saXRpY3MtbWF5LWNhc3Qtc2hhZG93LW92ZXItaXRzLWVjb25vbWljLXBsYW5zLTUxNjcwNTk4MzE10gFsaHR0cHM6Ly93d3cuYmFycm9ucy5jb20vYW1wL2FydGljbGVzL2luZG9uZXNpYXMtcG9saXRpY3MtbWF5LWNhc3Qtc2hhZG93LW92ZXItaXRzLWVjb25vbWljLXBsYW5zLTUxNjcwNTk4MzE1?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Indonesia Struggles to Attract Investors to Back Its New Capital ...",
+                    "article": "https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvZmVhdHVyZXMvMjAyMi0xMi0wNS9pbmRvbmVzaWEtcy1uZXctcmFpbmZvcmVzdC1jaXR5LXByZXNpZGVudC1qb2tvd2ktcy1udXNhbnRhcmEtcGxhbnMtZmFjZS10cm91Ymxl0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Indonesia, Australia Extend Economic Cooperation until 2026 ...",
+                    "article": "https://news.google.com/articles/CBMiW2h0dHBzOi8vZW4udGVtcG8uY28vcmVhZC8xNjY5NTkzL2luZG9uZXNpYS1hdXN0cmFsaWEtZXh0ZW5kLWVjb25vbWljLWNvb3BlcmF0aW9uLXVudGlsLTIwMjbSAVpodHRwczovL2VuLnRlbXBvLmNvL2FtcC8xNjY5NTkzL2luZG9uZXNpYS1hdXN0cmFsaWEtZXh0ZW5kLWVjb25vbWljLWNvb3BlcmF0aW9uLXVudGlsLTIwMjY?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "China delivers first home-grown ARJ21 jetliner overseas after year delay",
+                    "article": "https://news.google.com/articles/CBMijQFodHRwczovL3d3dy5zY21wLmNvbS9lY29ub215L2NoaW5hLWVjb25vbXkvYXJ0aWNsZS8zMjAzODQ3L2NoaW5hLWRlbGl2ZXJzLWZpcnN0LWhvbWUtZ3Jvd24tYXJqMjEtamV0bGluZXItb3ZlcnNlYXMtaW5kb25lc2lhLWFmdGVyLXllYXItZGVsYXnSAY0BaHR0cHM6Ly9hbXAuc2NtcC5jb20vZWNvbm9teS9jaGluYS1lY29ub215L2FydGljbGUvMzIwMzg0Ny9jaGluYS1kZWxpdmVycy1maXJzdC1ob21lLWdyb3duLWFyajIxLWpldGxpbmVyLW92ZXJzZWFzLWluZG9uZXNpYS1hZnRlci15ZWFyLWRlbGF5?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Despite global turmoil, the stars are aligning for Indonesia’s digital economy - The Jakarta Post",
+                    "article": "https://news.google.com/articles/CBMigwFodHRwczovL3d3dy50aGVqYWthcnRhcG9zdC5jb20vb3Bpbmlvbi8yMDIyLzExLzMwL2Rlc3BpdGUtZ2xvYmFsLXR1cm1vaWwtdGhlLXN0YXJzLWFyZS1hbGlnbmluZy1mb3ItaW5kb25lc2lhcy1kaWdpdGFsLWVjb25vbXkuaHRtbNIBhwFodHRwczovL3d3dy50aGVqYWthcnRhcG9zdC5jb20vYW1wL29waW5pb24vMjAyMi8xMS8zMC9kZXNwaXRlLWdsb2JhbC10dXJtb2lsLXRoZS1zdGFycy1hcmUtYWxpZ25pbmctZm9yLWluZG9uZXNpYXMtZGlnaXRhbC1lY29ub215Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Indonesia 2023 GDP growth may slow to 4.4% - c.bank",
+                    "article": "https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvYXNpYS9pbmRvbmVzaWEtMjAyMy1nZHAtZ3Jvd3RoLW1heS1zbG93LTQ0LWNiYW5rLTIwMjItMTEtMjEv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Vietnam, Indonesia have potential to boost economic partnership: Experts",
+                    "article": "https://news.google.com/articles/CBMia2h0dHBzOi8vZW4udmlldG5hbXBsdXMudm4vdmlldG5hbS1pbmRvbmVzaWEtaGF2ZS1wb3RlbnRpYWwtdG8tYm9vc3QtZWNvbm9taWMtcGFydG5lcnNoaXAtZXhwZXJ0cy8yNDU3ODkudm5w0gFraHR0cHM6Ly9lbi52aWV0bmFtcGx1cy52bi92aWV0bmFtLWluZG9uZXNpYS1oYXZlLXBvdGVudGlhbC10by1ib29zdC1lY29ub21pYy1wYXJ0bmVyc2hpcC1leHBlcnRzLzI0NTc4OS5hbXA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:22.492Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Ireland",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/255px-Flag_of_Ireland.svg.png",
+        "population": "4,818,000",
+        "nationalDebt": "$367,305,745,238",
+        "gdpGrossDomesticProduct": "$475,578,502,588",
+        "publicDebtToGdpRatio": "77.24%",
+        "externalDebtToGdpRatio": "613.89%",
+        "economicDescription": {
+            "country": "Ireland",
+            "economicForecast": "Growth is set to soften this year, partly due to a tougher base effect. Record-high inflation will restrain spending despite the removal of most Covid-19 restrictions. Supply bottlenecks, new Covid-19 variants, tense relations with the UK, and fuel price swings pose risks to the outlook. FocusEconomics panelists project GDP to expand 4.1% in 2022, which is down 0.1 percentage points from last month’s forecast, and 4.1% in 2023.",
+            "economicOutlook": "ter contracting in Q4, the economy is likely to have rebounded in Q1 in sequential terms. Most Covid-19 restrictions were scrapped in January, boosting spending and easing disruptions to labor supply. Retail sales growth plus the manufacturing and services PMIs averaged higher in Q1 than in Q4. That said, rising energy price pressures will have hurt consumer spending and the external balance; import growth averaged higher in Q1 relative to Q4, and consumer confidence was down sharply in March. Some support to growth will have come from the government’s EUR 505 million relief package in February and a fuel excise cut in March. Heading into Q2, activity is likely to weaken. Harmonized inflation reached record highs in April, while consumer confidence continued to slip in April–May. Additionally, supply bottlenecks and weakening foreign demand pushed the manufacturing PMI down in April.",
+            "timeStamp": "2022-12-20T02:07:55.767Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Ireland",
+            "articles": [
+                {
+                    "articleTitle": "Irish Economic Growth to Slow Significantly in 2023, OECD Says",
+                    "article": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE0L2lyaXNoLWVjb25vbWljLWdyb3d0aC10by1zbG93LXNpZ25pZmljYW50bHktaW4tMjAyMy1vZWNkLXNheXPSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Ireland's economic growth will slow significantly next year, OECD ...",
+                    "article": "https://news.google.com/articles/CBMijQFodHRwczovL3d3dy5pcmlzaHRpbWVzLmNvbS9idXNpbmVzcy9lY29ub215LzIwMjIvMTIvMTQvZmFsbGluZy1yZWFsLWluY29tZXMtd2lsbC10cmlnZ2VyLW1ham9yLXNsb3dkb3duLWluLWlyaXNoLWdyb3d0aC1uZXh0LXllYXItb2VjZC13YXJucy_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Ireland: Structural reforms are needed to ease long-term pressures ...",
+                    "article": "https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3Lm9lY2Qub3JnL25ld3Nyb29tL2lyZWxhbmQtc3RydWN0dXJhbC1yZWZvcm1zLWFyZS1uZWVkZWQtdG8tZWFzZS1sb25nLXRlcm0tcHJlc3N1cmVzLW9uLXB1YmxpYy1maW5hbmNlcy5odG3SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Announcement of Joe Kennedy III as U.S. Special Envoy to Northern ...",
+                    "article": "https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LnN0YXRlLmdvdi9hbm5vdW5jZW1lbnQtb2Ytam9lLWtlbm5lZHktaWlpLWFzLXUtcy1zcGVjaWFsLWVudm95LXRvLW5vcnRoZXJuLWlyZWxhbmQtZm9yLWVjb25vbWljLWFmZmFpcnMv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Joe Kennedy III named as US economic envoy to Northern Ireland",
+                    "article": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzLzIwMjIvZGVjLzE5L2pvZS1rZW5uZWR5LWlpaS1ub3J0aGVybi1pcmVsYW5kLXVzLWVjb25vbWljLWVudm950gFiaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvMjAyMi9kZWMvMTkvam9lLWtlbm5lZHktaWlpLW5vcnRoZXJuLWlyZWxhbmQtdXMtZWNvbm9taWMtZW52b3k?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Ex-Rep. Joe Kennedy III named envoy to Northern Ireland",
+                    "article": "https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LndnYmgub3JnL25ld3MvcG9saXRpY3MvMjAyMi8xMi8xOS9leC1yZXAtam9lLWtlbm5lZHktaWlpLW5hbWVkLWVudm95LXRvLW5vcnRoZXJuLWlyZWxhbmTSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "A Century of Irish Economic Independence: \"The Celtic Tiger\" and ...",
+                    "article": "https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LmVjb25saWIub3JnL2EtY2VudHVyeS1vZi1pcmlzaC1lY29ub21pYy1pbmRlcGVuZGVuY2UtdGhlLWNlbHRpYy10aWdlci1hbmQtYmV5b25kL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Northern Ireland job market strong despite economy worries",
+                    "article": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1ub3J0aGVybi1pcmVsYW5kLTYzOTU0OTU50gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3VrLW5vcnRoZXJuLWlyZWxhbmQtNjM5NTQ5NTkuYW1w?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Irish domestic economy shrank in Q3 following Q2 investment boom",
+                    "article": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2lyaXNoLWRvbWVzdGljLWVjb25vbXktc2hyYW5rLXEzLWZvbGxvd2luZy1xMi1pbnZlc3RtZW50LWJvb20tMjAyMi0xMi0wMi_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Northern Ireland economy expected to shrink next year",
+                    "article": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1ub3J0aGVybi1pcmVsYW5kLTYzODkzNjcy0gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3VrLW5vcnRoZXJuLWlyZWxhbmQtNjM4OTM2NzIuYW1w?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:25.981Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Korea",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png",
+        "population": "51,280,764",
+        "nationalDebt": "$811,710,711,062",
+        "gdpGrossDomesticProduct": "$1,777,141,111,047",
+        "publicDebtToGdpRatio": "45.68%",
+        "externalDebtToGdpRatio": "25.56%",
+        "economicDescription": {
+            "country": "Korea",
+            "economicForecast": "Growth will moderate to around its pre-pandemic average this year, due to a tougher base effect, rising energy prices, global supply bottlenecks and higher interest rates. Some support will be provided by relaxed Covid-19 restrictions and fiscal spending. Risks include high household debt levels, further energy price swings and a potential housing market slowdown. FocusEconomics panelists see GDP growth at 2.7% in 2022, which is down 0.1 percentage points from the previous month’s forecast. For 2023, GDP is seen expanding 2.4%.",
+            "economicOutlook": "er a Covid-19 wave dampened domestic demand in Q1 and caused GDP growth to slow, our panelists expect growth to weaken further in Q2. The industrial and external sectors—Korea’s main growth engines—have been hit by the war in Ukraine and the Covid-19 outbreak in China due to their effects on external demand, supply chains and Korea’s terms of trade. The manufacturing PMI and export growth in April–May averaged lower than in Q1. An eight-day long trucker’s strike in June caused further disruption; exports were down 12.7% year on year in the first 10 days of the month. That said, the services sector is likely supporting activity given falling unemployment and that most Covid-19 restrictions were removed in April; consumer confidence and retail sales held up well that month despite rising inflation. The USD 49.5 billion supplementary budget passed in May will further support activity.",
+            "timeStamp": "2022-12-20T02:07:58.358Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Korea",
+            "articles": [
+                {
+                    "articleTitle": "South Korea warns of deepening economic slump",
+                    "article": "https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vZWNvbm9teS8yMDIyLzEyLzE5L3NvdXRoLWtvcmVhLXdhcm5zLW9mLWRlZXBlbmluZy1lY29ub21pYy1zbHVtcNIBXmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL2Vjb25vbXkvMjAyMi8xMi8xOS9zb3V0aC1rb3JlYS13YXJucy1vZi1kZWVwZW5pbmctZWNvbm9taWMtc2x1bXA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "S Korea economic slump to deepen into next year",
+                    "article": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3LnRhaXBlaXRpbWVzLmNvbS9OZXdzL2Jpei9hcmNoaXZlcy8yMDIyLzEyLzIwLzIwMDM3OTEwMTfSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "South Korea's economic slump to bottom in H1 2023 - finance minister",
+                    "article": "https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3Lm5hc2RhcS5jb20vYXJ0aWNsZXMvc291dGgta29yZWFzLWVjb25vbWljLXNsdW1wLXRvLWJvdHRvbS1pbi1oMS0yMDIzLWZpbmFuY2UtbWluaXN0ZXLSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Korean Economic Growth is Projected to Decelerate",
+                    "article": "https://news.google.com/articles/CBMiUWh0dHBzOi8va2VpYS5vcmcvdGhlLXBlbmluc3VsYS9rb3JlYW4tZWNvbm9taWMtZ3Jvd3RoLWlzLXByb2plY3RlZC10by1kZWNlbGVyYXRlL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "South Korea’s trade deficit reflects global economic challenges",
+                    "article": "https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmVhc3Rhc2lhZm9ydW0ub3JnLzIwMjIvMTIvMTYvc291dGgta29yZWFzLXRyYWRlLWRlZmljaXQtcmVmbGVjdHMtZ2xvYmFsLWVjb25vbWljLWNoYWxsZW5nZXMv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "South Korea's Jobless Rate Rises as Rate Hikes Weigh on Hiring",
+                    "article": "https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTEzL3NvdXRoLWtvcmVhLXMtam9ibGVzcy1yYXRlLXJpc2VzLWFzLXJhdGUtaGlrZXMtd2VpZ2gtb24taGlyaW5n0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "South Korea's economy slowing more rapidly than expected- finance minister",
+                    "article": "https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3Lm1hcmtldHNjcmVlbmVyLmNvbS9uZXdzL2xhdGVzdC9Tb3V0aC1Lb3JlYS1zLWVjb25vbXktc2xvd2luZy1tb3JlLXJhcGlkbHktdGhhbi1leHBlY3RlZC1maW5hbmNlLW1pbmlzdGVyLS00MjU3NDQ4Ny_SAYMBaHR0cHM6Ly93d3cubWFya2V0c2NyZWVuZXIuY29tL2FtcC9uZXdzL2xhdGVzdC9Tb3V0aC1Lb3JlYS1zLWVjb25vbXktc2xvd2luZy1tb3JlLXJhcGlkbHktdGhhbi1leHBlY3RlZC1maW5hbmNlLW1pbmlzdGVyLS00MjU3NDQ4Ny8?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "South Korea May Be Ground Zero of the Interest-Rate Retreat",
+                    "article": "https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vb3Bpbmlvbi9hcnRpY2xlcy8yMDIyLTEyLTE1L3NvdXRoLWtvcmVhLW1heS1iZS1ncm91bmQtemVyby1vZi10aGUtaW50ZXJlc3QtcmF0ZS1yZXRyZWF00gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "A Korean Trajectory for China? by Keun Lee",
+                    "article": "https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnByb2plY3Qtc3luZGljYXRlLm9yZy9jb21tZW50YXJ5L3dpbGwtbWlkZGxlLWNsYXNzLWNoaW5lc2UtZm9sbG93LWtvcmVhLWRlbW9jcmF0aXphdGlvbi1wYXRoLWJ5LWtldW4tbGVlLTIwMjItMTLSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Brakes screeching on South Korea’s slowing economy",
+                    "article": "https://news.google.com/articles/CBMiUGh0dHBzOi8vYXNpYXRpbWVzLmNvbS8yMDIyLzExL2JyYWtlcy1zY3JlZWNoaW5nLW9uLXNvdXRoLWtvcmVhcy1zbG93aW5nLWVjb25vbXkv0gFQaHR0cHM6Ly9hc2lhdGltZXMuY29tLzIwMjIvMTEvYnJha2VzLXNjcmVlY2hpbmctb24tc291dGgta29yZWFzLXNsb3dpbmctZWNvbm9teS8?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:29.510Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Mexico",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png",
+        "population": "129,011,514",
+        "nationalDebt": "$773,888,242,316",
+        "gdpGrossDomesticProduct": "$1,139,411,165,170",
+        "publicDebtToGdpRatio": "67.92%",
+        "externalDebtToGdpRatio": "46.18%",
+        "economicDescription": {
+            "country": "Mexico",
+            "economicForecast": "In 2022, growth is seen moderating sharply because of higher inflation and interest rates, limp investment due to weak business sentiment, and a much weaker expansion in the U.S.—Mexico’s largest trading partner by far. More positively, higher oil prices will aid government coffers. Disruptions to manufacturing supply chains and a potential hard economic landing in the U.S. are risks. FocusEconomics panelists project the economy to expand 1.9% in 2022, which is down 0.1 percentage points from last month’s forecast. In 2023, they see GDP growth of 2.1%.",
+            "economicOutlook": "vised figures show that the economy expanded 1.0% quarter on quarter in Q1, marginally faster than previously estimated. The reading was driven by a sharp rebound in services activity, likely as the impact of last year’s labor outsourcing ban faded. Industrial output also picked up pace amid increased vehicle production and strong U.S. import demand, while the agricultural sector shrank. In Q2, available data suggests a continued—albeit milder—expansion, as higher inflation and interest rates weigh on activity. Experimental data from the statistics office pointed to a slowdown in economic growth in April due to softer services momentum. Moreover, both the manufacturing and services PMIs declined somewhat in May. However, strong employment and wage growth in the U.S. continues to spur remittances inflows, which should be buttressing consumption.",
+            "timeStamp": "2022-12-20T02:08:00.873Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Mexico",
+            "articles": [
+                {
+                    "articleTitle": "Mexico's Economy Grows for Fourth Straight Quarter; Outlook ...",
+                    "article": "https://news.google.com/articles/CBMiN2h0dHBzOi8vd3d3LmRhbGxhc2ZlZC5vcmcvcmVzZWFyY2gvdXBkYXRlL21leC8yMDIyLzIyMDfSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Mexican Immigrants Boost Trade, Investment And Prosperity",
+                    "article": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc3R1YXJ0YW5kZXJzb24vMjAyMi8xMi8xOS9tZXhpY2FuLWltbWlncmFudHMtYm9vc3QtdHJhZGUtaW52ZXN0bWVudC1hbmQtcHJvc3Blcml0eS_SAXRodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3N0dWFydGFuZGVyc29uLzIwMjIvMTIvMTkvbWV4aWNhbi1pbW1pZ3JhbnRzLWJvb3N0LXRyYWRlLWludmVzdG1lbnQtYW5kLXByb3NwZXJpdHkvYW1wLw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Mexico economy grows 0.9% in Q3 but tighter conditions expected",
+                    "article": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZW1lcmdpbmcvbWV4aWNvLWVjb25vbXktZ3Jvd3MtMDktcTMtd2l0aC1wcmltYXJ5LXNlY3Rvci1ib29zdC0yMDIyLTExLTI1L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "UPDATE 1-Mexico's economy could grow 2% in 2023, says finance ministry official",
+                    "article": "https://news.google.com/articles/CBMiSmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy8xLW1leGljb3MtZWNvbm9teS1jb3VsZC1ncm93LTE0MDAyMDA3NC5odG1s0gFSaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvMS1tZXhpY29zLWVjb25vbXktY291bGQtZ3Jvdy0xNDAwMjAwNzQuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Mexico GDP Per Capita: A Full Breakdown",
+                    "article": "https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYW5kcmV3ZGVwaWV0cm8vMjAyMi8xMS8yOC9tZXhpY28tZ2RwLXBlci1jYXBpdGEtYS1mdWxsLWJyZWFrZG93bi_SAWJodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2FuZHJld2RlcGlldHJvLzIwMjIvMTEvMjgvbWV4aWNvLWdkcC1wZXItY2FwaXRhLWEtZnVsbC1icmVha2Rvd24vYW1wLw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "NAFTA's Imposed Poverty Paved the Way for Mexico's Informal Work ...",
+                    "article": "https://news.google.com/articles/CBMiZWh0dHBzOi8vdHJ1dGhvdXQub3JnL2FydGljbGVzL25hZnRhcy1pbXBvc2VkLXBvdmVydHktcGF2ZWQtdGhlLXdheS1mb3ItbWV4aWNvcy1pbmZvcm1hbC13b3JrLWVjb25vbXkv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "US-Mexico Energy Trade Talks Stall Ahead of Biden's Visit",
+                    "article": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE1L3VzLW1leGljby1lbmVyZ3ktdHJhZGUtZGlzcHV0ZS10YWxrcy1zdGFsbC1haGVhZC1vZi1iaWRlbi12aXNpdNIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Mexico’s economy grew 5% in October; now nearly back to pre ...",
+                    "article": "https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LmVtc25vdy5jb20vbWV4aWNvcy1lY29ub215LWdyZXctNS1pbi1vY3RvYmVyLW5vdy1uZWFybHktYmFjay10by1wcmUtY292aWQtbGV2ZWxzL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Mexico targets resolution of U.S. energy spat, eyes renewables plan",
+                    "article": "https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL21leGljby1yZXZpZXctcXVvdGFzLWhlbHAta2VlcC1wcmljZXMtZG93bi1vZmZpY2lhbC0yMDIyLTEyLTA3L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "EMERGING MARKETS-Peruvian sol rises amid Cabinet shakeup, South African rand jumps",
+                    "article": "https://news.google.com/articles/CBMiUWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9lbWVyZ2luZy1tYXJrZXRzLXBlcnV2aWFuLXNvbC1yaXNlcy0xODU2MDUxNTguaHRtbNIBWWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL2VtZXJnaW5nLW1hcmtldHMtcGVydXZpYW4tc29sLXJpc2VzLTE4NTYwNTE1OC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:33.076Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Netherlands",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/255px-Flag_of_the_Netherlands.svg.png",
+        "population": "17,136,241",
+        "nationalDebt": "$728,598,626,009",
+        "gdpGrossDomesticProduct": "$1,046,480,836,324",
+        "publicDebtToGdpRatio": "69.63%",
+        "externalDebtToGdpRatio": "458.91%",
+        "economicDescription": {
+            "country": "Netherlands",
+            "economicForecast": "Economic growth will lose steam this year due to the impact of the war in Ukraine on sentiment, inflation and supply chains. Covid-19 lockdowns in China will put additional stress on supply chains and undermine export demand. However, robust fixed investment and a tight labor market, coupled with excess savings, should provide some support for growth. FocusEconomics Consensus Forecast panelists see the economy expanding 3.0% in 2022, which is down 0.1 percentage points from last month’s forecast, and 1.7% in 2023.",
+            "economicOutlook": "The Dutch economy made a hesitant start to the year, with growth evaporating on the back of falling household consumption and moderating investment growth. During the second quarter, the data points to a two-speed economy. On one hand, business confidence rose to its highest level since November 2021 in April, while the manufacturing PMI showed that operating conditions continued to improve during the month. On the other hand, consumer sentiment deteriorated significantly during April and May, with inflation remaining in double digits during April. This is likely to constrain household spending during the quarter, despite a further tightening of the labor market in April. Meanwhile, the European Commission recently listed tax distortions, the housing market, the pension system and the green-energy transition as key issues for the government to address.",
+            "timeStamp": "2022-12-20T02:08:03.448Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Netherlands",
+            "articles": [
+                {
+                    "articleTitle": "Our 3 calls for the Netherlands",
+                    "article": "https://news.google.com/articles/CBMiTWh0dHBzOi8vdGhpbmsuaW5nLmNvbS9hcnRpY2xlcy9vdXItdGhyZWUtY2FsbHMtZm9yLXRoZS1kdXRjaC1lY29ub215LWluLTIwMjMv0gFQaHR0cHM6Ly90aGluay5pbmcuY29tL2FtcC9hcnRpY2xlL291ci10aHJlZS1jYWxscy1mb3ItdGhlLWR1dGNoLWVjb25vbXktaW4tMjAyMy8?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "IMF gloomy about stagnating Dutch economy; Prices continue to rise ...",
+                    "article": "https://news.google.com/articles/CBMiXmh0dHBzOi8vbmx0aW1lcy5ubC8yMDIyLzEyLzA5L2ltZi1nbG9vbXktc3RhZ25hdGluZy1kdXRjaC1lY29ub215LXByaWNlcy1jb250aW51ZS1yaXNlLXNoYXJwbHnSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Dutch economy to witness slower growth in next 2 years, warns Rabobank",
+                    "article": "https://news.google.com/articles/CBMikQFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9pbnRlcm5hdGlvbmFsL2R1dGNoLWVjb25vbXktdG8td2l0bmVzcy1zbG93ZXItZ3Jvd3RoLWluLW5leHQtMi15ZWFycy13YXJucy1yYWJvYmFuay0xMjIxMjA2MDAyNzhfMS5odG1s0gGVAWh0dHBzOi8vd2FwLmJ1c2luZXNzLXN0YW5kYXJkLmNvbS9hcnRpY2xlLWFtcC9pbnRlcm5hdGlvbmFsL2R1dGNoLWVjb25vbXktdG8td2l0bmVzcy1zbG93ZXItZ3Jvd3RoLWluLW5leHQtMi15ZWFycy13YXJucy1yYWJvYmFuay0xMjIxMjA2MDAyNzhfMS5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Kingdom of the Netherlands–The Netherlands: Staff Concluding ...",
+                    "article": "https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3LmltZi5vcmcvZW4vTmV3cy9BcnRpY2xlcy8yMDIyLzEyLzA5L25ldGhlcmxhbmRzLWNzLWFpdi0yMtIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Dutch inflation to stick around 5% as energy costs bite - central bank",
+                    "article": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2R1dGNoLWluZmxhdGlvbi1zdGljay1hcm91bmQtNS1lbmVyZ3ktY29zdHMtYml0ZS1jZW50cmFsLWJhbmstMjAyMi0xMi0xOS_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Dutch Minister Warns Economy Is Hitting Wall on Emissions, Space",
+                    "article": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE0L2R1dGNoLW1pbmlzdGVyLXdhcm5zLWVjb25vbXktaXMtaGl0dGluZy13YWxsLW9uLWVtaXNzaW9ucy1zcGFjZdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Dutch slavery apology won't be enough, descendants say",
+                    "article": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmR3LmNvbS9lbi9kdXRjaC1zbGF2ZXJ5LWFwb2xvZ3ktd29udC1iZS1lbm91Z2gtZGVzY2VuZGFudHMtc2F5L2EtNjQxMTMxOTXSAVVodHRwczovL2FtcC5kdy5jb20vZW4vZHV0Y2gtc2xhdmVyeS1hcG9sb2d5LXdvbnQtYmUtZW5vdWdoLWRlc2NlbmRhbnRzLXNheS9hLTY0MTEzMTk1?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Gloomier outlook for Dutch economy from OECD; Inflation to remain ...",
+                    "article": "https://news.google.com/articles/CBMiYWh0dHBzOi8vbmx0aW1lcy5ubC8yMDIyLzExLzIyL2dsb29taWVyLW91dGxvb2stZHV0Y2gtZWNvbm9teS1vZWNkLWluZmxhdGlvbi1yZW1haW4taGlnaC10aWxsLTIwMjTSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "A globally critical chip firm is driving a wedge between the U.S. and Netherlands over China tech policy",
+                    "article": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMDUvdXMtcmFtcHMtdXAtcHJlc3N1cmUtb24tbmV0aGVybGFuZHMtdG8tZmFsbC1pbi1saW5lLXdpdGgtY2hpbmEtY2hpcC1wb2xpY3kuaHRtbNIBc2h0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzEyLzA1L3VzLXJhbXBzLXVwLXByZXNzdXJlLW9uLW5ldGhlcmxhbmRzLXRvLWZhbGwtaW4tbGluZS13aXRoLWNoaW5hLWNoaXAtcG9saWN5Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "IATA: The Netherlands' Aviation Regulation Is Completely Out Of ...",
+                    "article": "https://news.google.com/articles/CBMiTWh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9pYXRhLW5ldGhlcmxhbmRzLWF2aWF0aW9uLXJlZ3VsYXRpb24tb3V0LW9mLWNvbnRyb2wv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:36.581Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Nigeria",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/2560px-Flag_of_Nigeria.svg.png",
+        "population": "206,218,201",
+        "nationalDebt": "$165,486,154,580",
+        "gdpGrossDomesticProduct": "$495,159,257,632",
+        "publicDebtToGdpRatio": "33.42%",
+        "externalDebtToGdpRatio": "9.55%",
+        "economicDescription": {
+            "country": "Nigeria",
+            "economicForecast": "The economy will grow at a softer pace this year. Inflation will remain elevated, eating into consumers’ pockets. Power supply issues will further jeopardize activity. Moreover, social rifts and violence ahead of the February 2023 elections could undermine momentum. The government’s investment push should support activity, however. FocusEconomics panelists see GDP growth coming in at 3.0% in 2022, which is up 0.2 percentage points from last month’s forecast, and 3.0% in 2023.",
+            "economicOutlook": "conomic growth cooled in the first quarter of the year due to a further deterioration in the key oil sector. This more than offset a strong performance in the services sector leading non-oil sector activity to firm. Second-quarter data paints a mixed picture. Private-sector operating conditions improved at a fractionally slower pace in April–May, while credit growth was also broadly stable in April. That said, inflation rose markedly in the same month. A pickup in core inflation highlights that price pressures are farther-reaching than energy and food price increases. Meanwhile, sectarian violence spread to the country’s relatively safe south-western region. Social tensions and violence could increase going forward, as religious and regional divides are heightening the stakes of the February 2023 presidential elections.",
+            "timeStamp": "2022-12-20T02:08:05.953Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Nigeria",
+            "articles": [
+                {
+                    "articleTitle": "Why Nigeria Is Clamping Down on Its Vast Cash Economy",
+                    "article": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE0L3doeS1uaWdlcmlhLWlzLWNsYW1waW5nLWRvd24tb24taXRzLXZhc3QtY2FzaC1lY29ub215LXF1aWNrdGFrZdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Inside Nigeria's quest to go cashless",
+                    "article": "https://news.google.com/articles/CBMiT2h0dHBzOi8vYnVzaW5lc3NkYXkubmcvdGVjaG5vbG9neS9hcnRpY2xlL2luc2lkZS1uaWdlcmlhcy1xdWVzdC10by1nby1jYXNobGVzcy_SAVNodHRwczovL2J1c2luZXNzZGF5Lm5nL2FtcC90ZWNobm9sb2d5L2FydGljbGUvaW5zaWRlLW5pZ2VyaWFzLXF1ZXN0LXRvLWdvLWNhc2hsZXNzLw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "ACF: CBN’s cashless policy’ll collapse Nigeria’s economy",
+                    "article": "https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3LnRoZXN0YXIubmcvYWNmLWNibnMtY2FzaGxlc3MtcG9saWN5bGwtY29sbGFwc2UtbmlnZXJpYXMtZWNvbm9teS_SAVBodHRwczovL3d3dy50aGVzdGFyLm5nL2FjZi1jYm5zLWNhc2hsZXNzLXBvbGljeWxsLWNvbGxhcHNlLW5pZ2VyaWFzLWVjb25vbXkvYW1wLw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Nigeria Growth Rate Slows to 2.25% as Oil Production Slumps",
+                    "article": "https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTExLTI0L25pZ2VyaWEtZ3Jvd3RoLXJhdGUtc2xvd3MtdG8tMi0yNS1hcy1vaWwtcHJvZHVjdGlvbi1zbHVtcHPSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Nigeria's third-quarter economic growth slows to 2.25%",
+                    "article": "https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LnByZW1pdW10aW1lc25nLmNvbS9uZXdzL2hlYWRsaW5lcy81NjczNDktbmlnZXJpYXMtdGhpcmQtcXVhcnRlci1lY29ub21pYy1ncm93dGgtc2xvd3MtdG8tMi0yNS5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Nigeria’s economy slows in Q3 as oil, manufacturing shrink",
+                    "article": "https://news.google.com/articles/CBMiN2h0dHBzOi8vYnVzaW5lc3NkYXkubmcvYnVzaW5lc3MtZWNvbm9teS9hcnRpY2xlLzY5MjE5OS_SATtodHRwczovL2J1c2luZXNzZGF5Lm5nL2FtcC9idXNpbmVzcy1lY29ub215L2FydGljbGUvNjkyMTk5Lw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Appraising the impact of auditing on Nigeria's economy",
+                    "article": "https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmJsdWVwcmludC5uZy9hcHByYWlzaW5nLXRoZS1pbXBhY3Qtb2YtYXVkaXRpbmctb24tbmlnZXJpYXMtZWNvbm9teS_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "News Analysis: Other Sides Of FG’s $12trn GDP Target",
+                    "article": "https://news.google.com/articles/CBMiWmh0dHA6Ly9uaWdlcmlhbm9ic2VydmVybmV3cy5jb20vMjAyMi8xMi9uZXdzLWFuYWx5c2lzLW90aGVyLXNpZGVzLW9mLWZncy0xMnRybi1nZHAtdGFyZ2V0L9IBXmh0dHA6Ly9uaWdlcmlhbm9ic2VydmVybmV3cy5jb20vMjAyMi8xMi9uZXdzLWFuYWx5c2lzLW90aGVyLXNpZGVzLW9mLWZncy0xMnRybi1nZHAtdGFyZ2V0Lz9hbXA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "As Atiku, Kwankwaso, Obi, Tinubu commit to fiscal. monetary discipline: Nigeria’s economy set for recovery if…",
+                    "article": "https://news.google.com/articles/CBMijAFodHRwczovL3d3dy52YW5ndWFyZG5nci5jb20vMjAyMi8xMi9hcy1hdGlrdS1rd2Fua3dhc28tb2JpLXRpbnVidS1jb21taXQtdG8tZmlzY2FsLW1vbmV0YXJ5LWRpc2NpcGxpbmUtbmlnZXJpYXMtZWNvbm9teS1zZXQtZm9yLXJlY292ZXJ5LWlmL9IBkAFodHRwczovL3d3dy52YW5ndWFyZG5nci5jb20vMjAyMi8xMi9hcy1hdGlrdS1rd2Fua3dhc28tb2JpLXRpbnVidS1jb21taXQtdG8tZmlzY2FsLW1vbmV0YXJ5LWRpc2NpcGxpbmUtbmlnZXJpYXMtZWNvbm9teS1zZXQtZm9yLXJlY292ZXJ5LWlmL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Nigeria looks to pass new crypto legislation to keep up with global ...",
+                    "article": "https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5raXRjby5jb20vbmV3cy8yMDIyLTEyLTE5L05pZ2VyaWEtbG9va3MtdG8tcGFzcy1uZXctY3J5cHRvLWxlZ2lzbGF0aW9uLXRvLWtlZXAtdXAtd2l0aC1nbG9iYWwtZWNvbm9taWMtaW5ub3ZhdGlvbi5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:40.078Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Norway",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/800px-Flag_of_Norway.svg.png",
+        "population": "5,420,339",
+        "nationalDebt": "$178,288,667,486",
+        "gdpGrossDomesticProduct": "$431,246,677,182",
+        "publicDebtToGdpRatio": "41.34%",
+        "externalDebtToGdpRatio": "42.28%",
+        "economicDescription": {
+            "country": "Norway",
+            "economicForecast": "GDP is projected to grow at the second-strongest pace in nearly two decades this year. The moderation from 2021 will be due to softer public spending, as support measures are rolled back in a bid to cool the economy. The war in Ukraine, supply disruptions and the uncertain evolution of housing prices are risks to the outlook. FocusEconomics Consensus Forecast panelists estimate total GDP to grow 3.5% in 2022, which is unchanged from last month’s forecast, and to expand 2.3% in 2023. Our panel sees mainland GDP increasing 3.6% in 2022, which is down 0.2 percentage points from last month’s projection, and growing 2.1% in 2023.",
+            "economicOutlook": "Q1 2022, the economy contracted in sequential terms at the sharpest rate since the outbreak of the pandemic. Restrictions put in place in January to contain the spread of the Omicron variant hurt economic activity, which then picked up slightly in February and March after their removal. The GDP growth downturn in the quarter was broad-based, with private and public spending declining, and the external sector continuing to weigh on the reading. In Q2, activity should rebound. The manufacturing PMI showed that conditions improved at the strongest pace in five months in April. Additionally, government finances will be benefitting from high oil prices, boding well for a large fiscal surplus. That said, household spending could be in a tough spot, as price pressures hit an over 13-year high in April, likely capping consumption.",
+            "timeStamp": "2022-12-20T02:08:08.450Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Norway",
+            "articles": [
+                {
+                    "articleTitle": "Today in Norway: A roundup of the latest news on Monday",
+                    "article": "https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWxvY2FsLm5vLzIwMjIxMjE5L3RvZGF5LWluLW5vcndheS1hLXJvdW5kdXAtb2YtdGhlLWxhdGVzdC1uZXdzLW9uLW1vbmRheS03MdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Norway central bank hikes rate by quarter point, likely to act again",
+                    "article": "https://news.google.com/articles/CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9ub3J3YXktY2VudHJhbC1iYW5rLWhpa2VzLXJhdGUtMDk1MjU5MzIyLmh0bWzSAVRodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9ub3J3YXktY2VudHJhbC1iYW5rLWhpa2VzLXJhdGUtMDk1MjU5MzIyLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Norway economy seen growing by 1.2% in 2023, statistics agency ...",
+                    "article": "https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3Lnphd3lhLmNvbS9lbi93b3JsZC91ay1hbmQtZXVyb3BlL25vcndheS1lY29ub215LXNlZW4tZ3Jvd2luZy1ieS0xMi1pbi0yMDIzLXN0YXRpc3RpY3MtYWdlbmN5LXNheXMteXIzOXczbnDSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Attracting talent but lacking investment: Is Norway’s start-up scene too much of a well-kept secret?",
+                    "article": "https://news.google.com/articles/CBMigwFodHRwczovL3d3dy5ldXJvbmV3cy5jb20vbmV4dC8yMDIyLzEyLzEzL2F0dHJhY3RpbmctdGFsZW50LWJ1dC1sYWNraW5nLWludmVzdG1lbnQtaXMtbm9yd2F5cy1zdGFydC11cC1zY2VuZS10b28tbXVjaC1vZi1hLXdlbGwta2VwdNIBhwFodHRwczovL3d3dy5ldXJvbmV3cy5jb20vbmV4dC9hbXAvMjAyMi8xMi8xMy9hdHRyYWN0aW5nLXRhbGVudC1idXQtbGFja2luZy1pbnZlc3RtZW50LWlzLW5vcndheXMtc3RhcnQtdXAtc2NlbmUtdG9vLW11Y2gtb2YtYS13ZWxsLWtlcHQ?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "What workers in Norway should expect from the job market in 2023?",
+                    "article": "https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LnRoZWxvY2FsLm5vLzIwMjIxMjEzL3doYXQtd29ya2Vycy1pbi1ub3J3YXktc2hvdWxkLWV4cGVjdC1mcm9tLXRoZS1qb2ItbWFya2V0LWluLTIwMjPSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "North West Company has 'basically killed any possible economic activity,' says Norway House chief",
+                    "article": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tYW5pdG9iYS9ub3J3YXktaG91c2Utbm9ydGgtd2VzdC1jb21wYW55LTEuNjY2OTgwMNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42NjY5ODAw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Ground rent: Norway's new salmon tax turns economic textbook ...",
+                    "article": "https://news.google.com/articles/CBMilwFodHRwczovL3NjaWVuY2Vub3J3YXkubm8vYWdyaWN1bHR1cmUtZmlzaGVyaWVzLWVjb25vbWljcy1maW5hbmNlL2dyb3VuZC1yZW50LW5vcndheXMtbmV3LXNhbG1vbi10YXgtdHVybnMtZWNvbm9taWMtdGV4dGJvb2stbW9kZWxzLWludG8tcmVhbGl0eS8yMTA3NDA10gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "DNV To Lead Research Project For Strengthening Marine And ...",
+                    "article": "https://news.google.com/articles/CBMiiQFodHRwczovL3d3dy5tYXJpbmVpbnNpZ2h0LmNvbS9zaGlwcGluZy1uZXdzL2Rudi10by1sZWFkLXJlc2VhcmNoLXByb2plY3QtZm9yLXN0cmVuZ3RoZW5pbmctbWFyaW5lLWFuZC1vZmZzaG9yZS13aW5kLWNvZXhpc3RlbmNlLXBsYW5uaW5nL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Central banks ramp up rates again but the pace slows",
+                    "article": "https://news.google.com/articles/CBMiUWh0dHBzOi8va2Znby5jb20vMjAyMi8xMi8xNS9jZW50cmFsLWJhbmtzLXJhbXAtdXAtcmF0ZXMtYWdhaW4tYnV0LXRoZS1wYWNlLXNsb3dzL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Wealthiest People in Norway (December 19, 2022)",
+                    "article": "https://news.google.com/articles/CBMiTWh0dHBzOi8vY2Vvd29ybGQuYml6LzIwMjIvMTIvMTkvd2VhbHRoaWVzdC1wZW9wbGUtaW4tbm9yd2F5LWRlY2VtYmVyLTE5LTIwMjIv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:43.595Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Poland",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1200px-Flag_of_Poland.svg.png",
+        "population": "37,851,889",
+        "nationalDebt": "$406,795,013,358",
+        "gdpGrossDomesticProduct": "$660,814,768,364",
+        "publicDebtToGdpRatio": "61.56%",
+        "externalDebtToGdpRatio": "43.21%",
+        "economicDescription": {
+            "country": "Poland",
+            "economicForecast": "The economy looks poised to expand at a softer pace this year than in 2021, amid a tougher base of comparison and elevated commodity prices. That said, EU fund inflows, accumulated savings and robust investment activity should buttress growth. Volatile energy prices and a further deterioration in EU-Russia relations pose downside risks. FocusEconomics analysts see the economy growing 4.3% in 2022, which is up 0.4 percentage points from last month’s estimate, and 3.1% in 2023.",
+            "economicOutlook": "economy expanded strongly in the first quarter, beating market expectations. A marked accumulation of stocks shielded against supply side disruptions and drove the acceleration. Strong, albeit softer, private consumption growth amid a healthy labor market further supported activity. The pace of economic growth should moderate in Q2, partially due to a waning low base effect. Industrial activity cooled in April, likely weighed down by supply chain constraints, while inflation continued to soar. Business sentiment remained subdued in April and May, while the PMI moved into contractionary terrain in May. That said, retail sales skyrocketed in April. Meanwhile, the government terminated its agreement with Russia to receive gas, while parliament approved a judicial reform to meet EU demands, paving the way to receive EU recovery funds.",
+            "timeStamp": "2022-12-20T02:08:10.955Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Poland",
+            "articles": [
+                {
+                    "articleTitle": "Polish economy to grow 1.2 pct in 2023 says think-tank",
+                    "article": "https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LnRoZWZpcnN0bmV3cy5jb20vYXJ0aWNsZS9wb2xpc2gtZWNvbm9teS10by1ncm93LTEyLXBjdC1pbi0yMDIzLXNheXMtdGhpbmstdGFuay0zNTMxM9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Poland's Q3 GDP growth revised upwards to 4.5% y/y amidst sharp ...",
+                    "article": "https://news.google.com/articles/CBMiiAFodHRwczovL3d3dy5pbnRlbGxpbmV3cy5jb20vcG9sYW5kLXMtcTMtZ2RwLWdyb3d0aC1yZXZpc2VkLXVwd2FyZHMtdG8tNC01LXkteS1hbWlkc3Qtc2hhcnAtZGVjbGluZS1pbi1jb25zdW1wdGlvbi1hbmQtaW52ZXN0bWVudC0yNjM5MjIv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "S&P lowers Poland's GDP growth forecast for 2023 – The First News",
+                    "article": "https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnRoZWZpcnN0bmV3cy5jb20vYXJ0aWNsZS9zcC1sb3dlcnMtcG9sYW5kcy1nZHAtZ3Jvd3RoLWZvcmVjYXN0LWZvci0yMDIzLTM0ODIw0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Travelling Across Poland Showed Me That Britain’s Economy Is ...",
+                    "article": "https://news.google.com/articles/CBMiZmh0dHBzOi8vbm92YXJhbWVkaWEuY29tLzIwMjIvMTIvMTYvdHJhdmVsbGluZy1hY3Jvc3MtcG9sYW5kLXNob3dlZC1tZS10aGF0LWJyaXRhaW5zLWVjb25vbXktaXMtYnJva2VuL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Analysis: Investors eye a new market in Central Europe: homes for rent",
+                    "article": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2ludmVzdG9ycy1leWUtbmV3LW1hcmtldC1jZW50cmFsLWV1cm9wZS1ob21lcy1yZW50LTIwMjItMTItMTkv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Poland has EU's third lowest share of IT professionals in workforce",
+                    "article": "https://news.google.com/articles/CBMiLWh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIyLzEyLzE3LzUwNjY2L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Now could be Poland's moment — but it needs to play by the rules",
+                    "article": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2JhNTc0YTNmLWMwMzktNDMyZS04MTExLTg0YTVhZGFiNjI5YdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Poland’s current account balance improves due to seasonally higher EU transfers",
+                    "article": "https://news.google.com/articles/CBMiRWh0dHBzOi8vdGhpbmsuaW5nLmNvbS9zbmFwcy9wb2xhbmRzLWN1cnJlbnQtYWNjb3VudC1iYWxhbmNlLWltcHJvdmVzL9IBSGh0dHBzOi8vdGhpbmsuaW5nLmNvbS9hbXAvc25hcC9wb2xhbmRzLWN1cnJlbnQtYWNjb3VudC1iYWxhbmNlLWltcHJvdmVzLw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Germany's Schwedt refinery no longer needs Russian oil after ...",
+                    "article": "https://news.google.com/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9wb2xpc2gtc3VwcGxpZXMtbWVhbi1uby1uZWVkLXJ1c3NpYW4tb2lsLXNjaHdlZHQtcmVmaW5lcnktZ2VybWFuLW9mZmljaWFsLTIwMjItMTItMTUv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Meet Europe’s coming military superpower: Poland",
+                    "article": "https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvZXVyb3BlLW1pbGl0YXJ5LXN1cGVycG93ZXItcG9sYW5kLWFybXkv0gFLaHR0cHM6Ly93d3cucG9saXRpY28uZXUvYXJ0aWNsZS9ldXJvcGUtbWlsaXRhcnktc3VwZXJwb3dlci1wb2xhbmQtYXJteS9hbXAv?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:47.116Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Portugal",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",
+        "population": "10,195,020",
+        "nationalDebt": "$397,930,316,843",
+        "gdpGrossDomesticProduct": "$267,447,866,883",
+        "publicDebtToGdpRatio": "148.79%",
+        "externalDebtToGdpRatio": "198.44%",
+        "economicDescription": {
+            "country": "Portugal",
+            "economicForecast": "The GDP growth estimate for 2022 was revised significantly upwards this edition, as panelists factored in an unexpectedly strong performance during Q1. Growth will be fueled by a recovery in tourism, robust household spending amid a solid labor market and EU fund inflows. However, the prolongation of supply chain disruptions and the war in Ukraine pose downside risks. FocusEconomics Consensus Forecast panelists see GDP growing 5.3% in 2022, which is up 0.7 percentage points from the previous month’s forecast. For 2023, the panel sees GDP climbing 2.3%.",
+            "economicOutlook": "fter Q1’s surprisingly positive GDP figures, growth appears to be normalizing in Q2. In April, consumer sentiment remained quite downbeat due to the war in Ukraine, while inflation continued to spike, which is likely to weigh on consumer spending. On the other hand, business confidence ticked up in April, while the tourism sector performed robustly during the same month. The stronger-than-expected recovery, coupled with a degree of public spending restraint, led Fitch Ratings to revise the country’s outlook from stable to positive in early May, while the finance minister vowed to reduce the public debt at a faster pace to help ensure financial stability. The European Commission recently drew attention to upward pressure on public spending stemming from the country’s sizeable public sector wage bill, while the IMF has called for measures to bolster pension sustainability.",
+            "timeStamp": "2022-12-20T02:08:13.448Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Portugal",
+            "articles": [
+                {
+                    "articleTitle": "Portugal to give one-off subsidy to poorest families amid soaring ...",
+                    "article": "https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL3BvcnR1Z2FsLWdpdmUtb25lLW9mZi1zdWJzaWR5LXBvb3Jlc3QtZmFtaWxpZXMtYW1pZC1zb2FyaW5nLWluZmxhdGlvbi0yMDIyLTEyLTE1L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Portugal's Q3 growth accelerates with consumption but future not ...",
+                    "article": "https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL3BvcnR1Z2Fscy1xMy1ncm93dGgtYWNjZWxlcmF0ZXMtd2l0aC1jb25zdW1wdGlvbi1mdXR1cmUtbm90LXNoaW5pbmctMjAyMi0xMS0zMC_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Portugal's Minister of Economy: Portugal Must Diversify Exports ...",
+                    "article": "https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnNjaGVuZ2VudmlzYWluZm8uY29tL25ld3MvcG9ydHVnYWxzLW1pbmlzdGVyLW9mLWVjb25vbXktcG9ydHVnYWwtbXVzdC1kaXZlcnNpZnktZXhwb3J0cy1wYXJ0aWN1bGFybHktaW4tdG91cmlzbS_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Will insipid economic medicine work? The jury's still out.",
+                    "article": "https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnRoZXBvcnR1Z2FsbmV3cy5jb20vbmV3cy8yMDIyLTEyLTE4L3dpbGwtaW5zaXBpZC1lY29ub21pYy1tZWRpY2luZS13b3JrLXRoZS1qdXJ5cy1zdGlsbC1vdXQvNzMwMzTSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Portuguese climate activists must pay fine over protest, says court",
+                    "article": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9wb3J0dWd1ZXNlLWNsaW1hdGUtYWN0aXZpc3RzLW11c3QtcGF5LWZpbmUtb3Zlci1wcm90ZXN0LXNheXMtY291cnQtMjAyMi0xMi0xNi_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Brussels concerned over Portugal's 'overvalued' house prices",
+                    "article": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LmV1cmFjdGl2LmNvbS9zZWN0aW9uL3BvbGl0aWNzL25ld3MvYnJ1c3NlbHMtY29uY2VybmVkLW92ZXItcG9ydHVnYWxzLW92ZXJ2YWx1ZWQtaG91c2UtcHJpY2VzL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Teachers begin 'unprecedented' indefinite strike in Portugal",
+                    "article": "https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LmFhLmNvbS50ci9lbi9lY29ub215L3RlYWNoZXJzLWJlZ2luLXVucHJlY2VkZW50ZWQtaW5kZWZpbml0ZS1zdHJpa2UtaW4tcG9ydHVnYWwvMjc1OTU3MdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Portugal, Spain and Greece welcome energy migrants with promise ...",
+                    "article": "https://news.google.com/articles/CBMihQFodHRwczovL3d3dy5ldXJvbmV3cy5jb20vdHJhdmVsLzIwMjIvMTEvMjgvcG9ydHVnYWwtc3BhaW4tYW5kLWdyZWVjZS13ZWxjb21lLWVuZXJneS1taWdyYW50cy13aXRoLXByb21pc2Utb2Ytd2FybS13ZWF0aGVyLWFuZC1sb3ctYmls0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "NextGenerationEU",
+                    "article": "https://news.google.com/articles/CBMiQGh0dHBzOi8vZWMuZXVyb3BhLmV1L2NvbW1pc3Npb24vcHJlc3Njb3JuZXIvZGV0YWlsL2RhL2lwXzIyXzc3MTDSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Portugal: Policies for a Strong Economy",
+                    "article": "https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LmltZi5vcmcvZW4vTmV3cy9BcnRpY2xlcy8yMDIyLzA2LzMwL0NGLVBvcnR1Z2FsLVBvbGljaWVzLWZvci1hLVN0cm9uZy1FY29ub2150gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:50.679Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Russia",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/640px-Flag_of_Russia.svg.png",
+        "population": "146,014,507",
+        "nationalDebt": "$301,466,107,701",
+        "gdpGrossDomesticProduct": "$1,648,602,765,420",
+        "publicDebtToGdpRatio": "18.29%",
+        "externalDebtToGdpRatio": "38.70%",
+        "economicDescription": {
+            "country": "Russia",
+            "economicForecast": "The economy is forecast to dive into a recession this year, due to the fallout from the war with Ukraine and associated international sanctions. Rising inflation and a deteriorating labor market should hammer household spending, while an exodus of foreign capital is set to hit investment activity. Increasing economic isolation will weigh on long term growth potential. FocusEconomics panelists project GDP to shrink 9.8% in 2022, which is up 0.4 percentage points from last month’s forecast. In 2023, the economy is seen declining a further 1.4%.",
+            "economicOutlook": "wth slowed significantly in Q1, on weaker domestic demand due to the fallout from the war in Ukraine. Turning to Q2, the economy is heading into a deep recession as Russia’s military campaign in Ukraine’s Donbas region drags on and sanctions bite. Economic activity contracted in April, seemingly driven by a plunge in private spending as retail sales tumbled. Similarly, investment activity should be feeling the impact of sanctions and capital outflows. Meanwhile, although soaring energy prices have helped the external sector hold up relatively well so far, the EU’s decision in late May to largely ban Russian oil imports by end-2022 will hit the sector hard in the coming months. Meanwhile, to prop up the ailing economy, the government announced double digit hikes to pensions and the minimum wage, and slashed interest rate again in May. However, this will be insufficient to prevent a recession.",
+            "timeStamp": "2022-12-20T02:08:15.968Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Russia",
+            "articles": [
+                {
+                    "articleTitle": "Analysis: EU unity over Russia sanctions falters as Europe's economy wilts",
+                    "article": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2V1LXVuaXR5LW92ZXItcnVzc2lhLXNhbmN0aW9ucy1mYWx0ZXJzLWV1cm9wZXMtZWNvbm9teS13aWx0cy0yMDIyLTEyLTE2L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Adam Tooze: How the Ukraine War Will Upend Europe",
+                    "article": "https://news.google.com/articles/CBMiVmh0dHBzOi8vZm9yZWlnbnBvbGljeS5jb20vMjAyMi8xMi8xNi90b296ZS11a3JhaW5lLXJ1c3NpYS1lY29ub215LXJlY29uY2VwdHVhbGl6YXRpb24v0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "How Putin's technocrats saved the economy to fight a war they opposed",
+                    "article": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2ZlNWZlMGVkLWU1ZDQtNDc0ZS1iYjVhLTEwYzk2NTcyODVkMtIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Putin's War Makes Russian Stocks World's Worst With Grim Outlook",
+                    "article": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE4L3B1dGluLXMtd2FyLW1ha2VzLXJ1c3NpYW4tc3RvY2tzLXdvcmxkLXMtd29yc3Qtd2l0aC1ncmltLW91dGxvb2vSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Russia has its troops. But does it have the economy to supply them?",
+                    "article": "https://news.google.com/articles/CBMiR2h0dHBzOi8vbmV3cy55YWhvby5jb20vcnVzc2lhLXRyb29wcy1kb2VzLWVjb25vbXktc3VwcGx5LTEzNTQ0ODY0NC5odG1s0gFPaHR0cHM6Ly9uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3J1c3NpYS10cm9vcHMtZG9lcy1lY29ub215LXN1cHBseS0xMzU0NDg2NDQuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Predictions of China’s rise and America’s demise in 2022 were wrong — at least for now | Opinion",
+                    "article": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2xvY2FsL25ld3MtY29sdW1ucy1ibG9ncy9hbmRyZXMtb3BwZW5oZWltZXIvYXJ0aWNsZTI3MDEwMzY1Ny5odG1s0gFiaHR0cHM6Ly9hbXAubWlhbWloZXJhbGQuY29tL25ld3MvbG9jYWwvbmV3cy1jb2x1bW5zLWJsb2dzL2FuZHJlcy1vcHBlbmhlaW1lci9hcnRpY2xlMjcwMTAzNjU3Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Russia has its troops. But does it have the economy to supply them?",
+                    "article": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmNzbW9uaXRvci5jb20vV29ybGQvRXVyb3BlLzIwMjIvMTIxOS9SdXNzaWEtaGFzLWl0cy10cm9vcHMuLUJ1dC1kb2VzLWl0LWhhdmUtdGhlLWVjb25vbXktdG8tc3VwcGx5LXRoZW3SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Russia Central Banks Keeps It’s Key Interest Rate Steady Amid Inflation",
+                    "article": "https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTIvMTYvd29ybGQvZXVyb3BlL3J1c3NpYS1jZW50cmFsLWJhbmstaW50ZXJlc3QtcmF0ZS5odG1s0gFaaHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyMi8xMi8xNi93b3JsZC9ldXJvcGUvcnVzc2lhLWNlbnRyYWwtYmFuay1pbnRlcmVzdC1yYXRlLmFtcC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "The cold snap has brought total economic defeat for Putin",
+                    "article": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9idXNpbmVzcy8yMDIyLzEyLzE2L2NvbGQtc25hcC1oYXMtYnJvdWdodC10b3RhbC1lY29ub21pYy1kZWZlYXQtcHV0aW4v0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Russia's wartime economy: learning to live without imports",
+                    "article": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzZjMDFlODRiLTUzMzMtNDAyNC1hYWYxLTUyMWNmMTIwN2ViNNIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:54.257Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Saudi Arabia",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/640px-Flag_of_Saudi_Arabia.svg.png",
+        "population": "34,852,485",
+        "nationalDebt": "$199,864,629,628",
+        "gdpGrossDomesticProduct": "$765,088,216,851",
+        "publicDebtToGdpRatio": "26.12%",
+        "externalDebtToGdpRatio": "31.72%",
+        "economicDescription": {
+            "country": "Saudi Arabia",
+            "economicForecast": "GDP forecasts were once again adjusted upwards this month: The economy is set to grow at the second-fastest rate in MENA due to higher OPEC+ quotas and a multi-year high oil prices. On 2 June, OPEC+ agreed to ramp up oil production quota increases in July and August by 50.0%, further improving the outlook. Risks to the outlook include rising global inflation and interest rates. FocusEconomics panelists see GDP growing 7.4% in 2022, which is up 0.2 percentage points from last month’s forecast. In 2023, the panel sees economic growth at 3.6%.",
+            "economicOutlook": "After expanding at the fastest pace in more than a decade during Q1, the economy is likely to remain at full throttle in Q2. Thanks to an increased OPEC+ quota, oil production rose to its highest level in two years during April. After slipping during that same month, oil prices then recorded their highest monthly average since 2011 in May. Rising oil prices are boosting the external and fiscal balances. However, this windfall is unlikely to boost GDP as much as in recent years. The government is concerned that as the world turns away from fossil fuels, this could be oil’s last great bull run. As a result, it is planning to plough money from this windfall into the country’s USD 600 billion sovereign wealth fund as part of its effort to diversify the economy. It will also use some of it to rebuild foreign exchange reserves and reduce public debt.",
+            "timeStamp": "2022-12-20T02:08:18.504Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Saudi Arabia",
+            "articles": [
+                {
+                    "articleTitle": "Organized Disruption: Saudi Arabia's Formula for Growth",
+                    "article": "https://news.google.com/articles/CBMiXmh0dHBzOi8vaW50ZXJuYXRpb25hbGJhbmtlci5jb20vZmluYW5jZS9vcmdhbml6ZWQtZGlzcnVwdGlvbi1zYXVkaS1hcmFiaWFzLWZvcm11bGEtZm9yLWdyb3d0aC_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Saudi Arabia: MBS can get closer to China but he still needs US ...",
+                    "article": "https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3Lm1pZGRsZWVhc3RleWUubmV0L29waW5pb24vc2F1ZGktYXJhYmlhLXVzLWNoaW5hLWNsb3Nlci1wcm90ZWN0aW9uLW5lZWRz0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Saudi Arabia Remains on Track to Be Fastest-Growing G-20 Economy",
+                    "article": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTExL3NhdWRpLWFyYWJpYS1yZW1haW5zLW9uLXRyYWNrLXRvLWJlLWZhc3Rlc3QtZ3Jvd2luZy1nLTIwLWVjb25vbXnSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "INTERVIEW: French minister affirms France's commitment to ...",
+                    "article": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmFyYWJuZXdzLmNvbS9ub2RlLzIyMTgyNzEvc2F1ZGktYXJhYmlh0gEpaHR0cHM6Ly93d3cuYXJhYm5ld3MuY29tL25vZGUvMjIxODI3MS9hbXA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Saudi Arabia's LIV Golf series is about more than just sportswashing",
+                    "article": "https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3Lm1zbmJjLmNvbS9vcGluaW9uL21zbmJjLW9waW5pb24vc2F1ZGktYXJhYmlhLWxpdi1nb2xmLXNwb3J0c3dhc2hpbmctcmNuYTYxNzA00gEpaHR0cHM6Ly93d3cubXNuYmMuY29tL21zbmJjL2FtcC9yY25hNjE3MDQ?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "When China and Saudi Arabia meet, nothing matters more than oil",
+                    "article": "https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMi8xMi8wOC9lY29ub215L2NoaW5hLXhpLXNhdWRpLWFyYWJpYS12aXNpdC1vaWwtdHJhZGUtaW50bC1obmsvaW5kZXguaHRtbNIBZGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjIvMTIvMDgvZWNvbm9teS9jaGluYS14aS1zYXVkaS1hcmFiaWEtdmlzaXQtb2lsLXRyYWRlLWludGwtaG5rL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "High Oil Prices Lift Saudi Arabia, Bolster Prince's Economic Plans",
+                    "article": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3Lndzai5jb20vYXJ0aWNsZXMvaGlnaC1vaWwtcHJpY2VzLWxpZnQtc2F1ZGktYXJhYmlhLWJvbHN0ZXItcHJpbmNlcy1lY29ub21pYy1wbGFucy0xMTY3MDQ0NjQ4OdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Inside the Saudi Strategy to Keep the World Hooked on Oil",
+                    "article": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMjEvY2xpbWF0ZS9zYXVkaS1hcmFiaWEtYXJhbWNvLW9pbC1zb2xhci1jbGltYXRlLmh0bWzSAVlodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDIyLzExLzIxL2NsaW1hdGUvc2F1ZGktYXJhYmlhLWFyYW1jby1vaWwtc29sYXItY2xpbWF0ZS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Countdown to 2030: Addressing the stubborn obesity challenge in Saudi Arabia",
+                    "article": "https://news.google.com/articles/CBMiiQFodHRwczovL3d3dy5icm9va2luZ3MuZWR1L2Jsb2cvZnV0dXJlLWRldmVsb3BtZW50LzIwMjIvMTIvMTUvY291bnRkb3duLXRvLTIwMzAtYWRkcmVzc2luZy10aGUtc3R1YmJvcm4tb2Jlc2l0eS1jaGFsbGVuZ2UtaW4tc2F1ZGktYXJhYmlhL9IBjQFodHRwczovL3d3dy5icm9va2luZ3MuZWR1L2Jsb2cvZnV0dXJlLWRldmVsb3BtZW50LzIwMjIvMTIvMTUvY291bnRkb3duLXRvLTIwMzAtYWRkcmVzc2luZy10aGUtc3R1YmJvcm4tb2Jlc2l0eS1jaGFsbGVuZ2UtaW4tc2F1ZGktYXJhYmlhL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "MIDEAST STOCKS-Oil supports most Gulf markets; Saudi falls on ...",
+                    "article": "https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3Lm5hc2RhcS5jb20vYXJ0aWNsZXMvbWlkZWFzdC1zdG9ja3Mtb2lsLXN1cHBvcnRzLW1vc3QtZ3VsZi1tYXJrZXRzLXNhdWRpLWZhbGxzLW9uLWVjb25vbWljLXdvcnJpZXPSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:06:57.792Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Spain",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg",
+        "population": "48,814,096",
+        "nationalDebt": "$1,696,702,913,329",
+        "gdpGrossDomesticProduct": "$1,508,947,108,867",
+        "publicDebtToGdpRatio": "112.45%",
+        "externalDebtToGdpRatio": "164.03%",
+        "economicDescription": {
+            "country": "Spain",
+            "economicForecast": "Although the pace of growth will ease this year, it should remain relatively solid. A recovering tourism industry and EU fund inflows should underpin the economy. While accumulated savings and rising employment will provide support to consumer spending, it will be restrained by elevated inflation. Rising interest rates and a weak fiscal position cloud the outlook. Our panelists now project the economy to grow 4.4% in 2022, down 0.3 percentage points from last month’s forecast, and 3.1% in 2023.",
+            "economicOutlook": "th weakened in the first quarter, as household spending was weighed down by surging inflation and the spread of the Omicron variant. Turning to Q2, in April, a robust recovery in tourism likely underpinned the tertiary sector, as signaled by a higher services PMI reading, while the rate of unemployment fell and retail sales rebounded strongly. However, elevated inflation, downbeat consumer confidence and a softer expansion in manufacturing activity call for caution. Meanwhile, the European Commission recently warned of imbalances in the public accounts, with the independent fiscal authority lamenting the absence of a medium-term strategy to bring them under control. Furthermore, the Bank of Spain has called for additional reforms to ensure the sustainability of the public pensions system.",
+            "timeStamp": "2022-12-20T02:08:21.003Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Spain",
+            "articles": [
+                {
+                    "articleTitle": "Spain: Staff Concluding Statement of the 2022 Article IV Mission",
+                    "article": "https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LmltZi5vcmcvZW4vTmV3cy9BcnRpY2xlcy8yMDIyLzExLzIyL21jczExMjMyMi1zcGFpbi1zdGFmZi1jb25jbHVkaW5nLXN0YXRlbWVudC1vZi10aGUtMjAyMi1hcnRpY2xlLWl2LW1pc3Npb27SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Youth in Spain see jobs gain after years of instability",
+                    "article": "https://news.google.com/articles/CBMiVGh0dHBzOi8va2Znby5jb20vMjAyMi8xMi8xOS95b3V0aC1pbi1zcGFpbi1zZWUtam9icy1nYWluLWFmdGVyLXllYXJzLW9mLWluc3RhYmlsaXR5L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Ambassador at Large Fick Travels to the OECD Digital Economy ...",
+                    "article": "https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LnN0YXRlLmdvdi9hbWJhc3NhZG9yLWF0LWxhcmdlLWZpY2stdHJhdmVscy10by10aGUtb2VjZC1kaWdpdGFsLWVjb25vbXktbWluaXN0ZXJpYWwtaW4tc3BhaW4v0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Spain’s Debt Collectors in Costume Making a Comeback as ...",
+                    "article": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTEzL2Zvci1kZWJ0LWNvbGxlY3RvcnMtZHJpdmluZy1mYWtlLWhlYXJzZXMtYnVzaW5lc3MtaXMtYm9vbWluZ9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Spain Wants To Attract Remote Workers With New Digital Nomad Visa — Here’s What Is Required",
+                    "article": "https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LnRyYXZlbGF3YWl0cy5jb20vMjg0MDAyNy9uZXctc3BhaW4tZGlnaXRhbC1ub21hZC12aXNhLXJlcXVpcmVtZW50cy_SAVNodHRwczovL3d3dy50cmF2ZWxhd2FpdHMuY29tLzI4NDAwMjcvbmV3LXNwYWluLWRpZ2l0YWwtbm9tYWQtdmlzYS1yZXF1aXJlbWVudHMvP2FtcA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Inflation Eases Slightly in Germany and Spain",
+                    "article": "https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMjkvYnVzaW5lc3MvaW5mbGF0aW9uLWdlcm1hbnktc3BhaW4uaHRtbNIBTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMjkvYnVzaW5lc3MvaW5mbGF0aW9uLWdlcm1hbnktc3BhaW4uYW1wLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "CCTV Script 19/12/22",
+                    "article": "https://news.google.com/articles/CBMiOWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMTkvY2N0di1zY3JpcHQtMTkvMTIvMjIuaHRtbNIBPWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzEyLzE5L2NjdHYtc2NyaXB0LTE5LzEyLzIyLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "EU Cohesion Policy: €37.3 billion to Spain",
+                    "article": "https://news.google.com/articles/CBMiQGh0dHBzOi8vZWMuZXVyb3BhLmV1L2NvbW1pc3Npb24vcHJlc3Njb3JuZXIvZGV0YWlsL2VuL0lQXzIyXzY5NjTSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "After going missing in France, US college student Ken DeLand Jr. gets found in Spain",
+                    "article": "https://news.google.com/articles/CBMipgFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL2FmdGVyLWdvaW5nLW1pc3NpbmctaW4tZnJhbmNlLXVzLWNvbGxlZ2Utc3R1ZGVudC1rZW4tZGVsYW5kLWpyLWdldHMtZm91bmQtaW4tc3BhaW4vYXJ0aWNsZXNob3cvOTYyODc2MjkuY21z0gGhAWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvdXMvYWZ0ZXItZ29pbmctbWlzc2luZy1pbi1mcmFuY2UtdXMtY29sbGVnZS1zdHVkZW50LWtlbi1kZWxhbmQtanItZ2V0cy1mb3VuZC1pbi1zcGFpbi9hbXBfYXJ0aWNsZXNob3cvOTYyODc2MjkuY21z?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Spain goes Bankrupt!",
+                    "article": "https://news.google.com/articles/CBMiOWh0dHBzOi8vdGZpZ2xvYmFsbmV3cy5jb20vMjAyMi8xMS8yMy9zcGFpbi1nb2VzLWJhbmtydXB0L9IBPWh0dHBzOi8vdGZpZ2xvYmFsbmV3cy5jb20vMjAyMi8xMS8yMy9zcGFpbi1nb2VzLWJhbmtydXB0L2FtcC8?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:07:01.357Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Sweden",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png",
+        "population": "10,103,122",
+        "nationalDebt": "$306,180,944,284",
+        "gdpGrossDomesticProduct": "$637,296,006,529",
+        "publicDebtToGdpRatio": "48.05%",
+        "externalDebtToGdpRatio": "174.23%",
+        "economicDescription": {
+            "country": "Sweden",
+            "economicForecast": "This year, economic growth is set to nearly halve, as both public and private spending growth decelerate from 2021’s strong return to growth. Lingering supply chain shocks, mounting price pressures and tighter monetary policy are risks to the outlook. Additionally, heightened geopolitical tensions cloud the outlook. FocusEconomics panelists see GDP expanding 2.7% in 2022, which is down 0.2 percentage points from last month’s forecast, and 1.9% in 2023.",
+            "economicOutlook": "economy should be recovering notable traction in the second quarter, following Q1’s setback. Underlying momentum slowed in Q1, as mounting price pressures and uncertainty weighed on consumer sentiment, and on spending in turn. Available data points to a brighter picture in the second quarter. In April, the unemployment rate remained at the joint-lowest level since March 2020, which should have supported private spending as the highest inflation rates in over three decades weighed on consumers. Further, both business confidence and economic sentiment were upbeat in the same month. Additionally, both the manufacturing and services PMIs revealed that conditions continued to improve at robust paces in April. On 18 May, Swedish and Finnish authorities submitted official applications to join NATO, abandoning long traditions of neutrality. Turkey could block their bids, however.",
+            "timeStamp": "2022-12-20T02:08:23.531Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Sweden",
+            "articles": [
+                {
+                    "articleTitle": "Sweden Elects: What's in store for the Swedish economy in 2023?",
+                    "article": "https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LnRoZWxvY2FsLnNlLzIwMjIxMjE5L3N3ZWRlbi1lbGVjdHMtd2hhdHMtaW4tc3RvcmUtZm9yLXRoZS1zd2VkaXNoLWVjb25vbXktaW4tMjAyM9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Sweden's EU Presidency to Focus on Europe's Security, Ukraine ...",
+                    "article": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE0L3N3ZWRlbi1zZXRzLWV1cm9wZS1zLXNlY3VyaXR5LWFzLXRvcC10YXNrLWZvci1pdHMtZXUtcHJlc2lkZW5jedIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Swedish PM Kristersson presents priorities of EU Council Presidency",
+                    "article": "https://news.google.com/articles/CBMijwFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9pbnRlcm5hdGlvbmFsL3N3ZWRpc2gtcG0ta3Jpc3RlcnNzb24tcHJlc2VudHMtcHJpb3JpdGllcy1vZi1ldS1jb3VuY2lsLXByZXNpZGVuY3ktMTIyMTIxNTAwMjM1XzEuaHRtbNIBkwFodHRwczovL3dhcC5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS1hbXAvaW50ZXJuYXRpb25hbC9zd2VkaXNoLXBtLWtyaXN0ZXJzc29uLXByZXNlbnRzLXByaW9yaXRpZXMtb2YtZXUtY291bmNpbC1wcmVzaWRlbmN5LTEyMjEyMTUwMDIzNV8xLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Sweden House Prices, Property Market Decline Triggers Worst ...",
+                    "article": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTEyL3N3ZWRlbi1zLWZyZWUtZmFsbGluZy1wcm9wZXJ0eS1tYXJrZXQtdHJpZ2dlcnMtd29yc3Qtc2x1bXAtaW4tZXXSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Sweden Is Rethinking What Makes It Great",
+                    "article": "https://news.google.com/articles/CBMikgFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vYnVzaW5lc3MvZW5lcmd5L3N3ZWRlbi1pcy1yZXRoaW5raW5nLXdoYXQtbWFrZXMtaXQtZ3JlYXQvMjAyMi8xMS8yMi9iOTI0YzM1Mi02YTJiLTExZWQtODYxOS0wYjkyZjA1NjU1OTJfc3RvcnkuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Swedish Q3 GDP strong, but clouds gathering over economy",
+                    "article": "https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3Lm5hc2RhcS5jb20vYXJ0aWNsZXMvc3dlZGlzaC1xMy1nZHAtc3Ryb25nLWJ1dC1jbG91ZHMtZ2F0aGVyaW5nLW92ZXItZWNvbm9tedIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Swedish economy grew in October, but clouds gathering",
+                    "article": "https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3Lnphd3lhLmNvbS9lbi93b3JsZC91ay1hbmQtZXVyb3BlL3N3ZWRpc2gtZWNvbm9teS1ncmV3LWluLW9jdG9iZXItYnV0LWNsb3Vkcy1nYXRoZXJpbmcteGIyNmZ3aGrSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Sweden Interest Rate: Riksbank Sees More Hikes Despite ...",
+                    "article": "https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTExLTI0L3Jpa3NiYW5rLXJhaXNlcy1yYXRlLXRvLTE0LXllYXItaGlnaC13aXRoLTc1LWJhc2lzLXBvaW50LXNhbHZv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Drones, sats and rockets: As Sweden looks to boost spending, it's ...",
+                    "article": "https://news.google.com/articles/CBMifmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIyLzEyL2Ryb25lcy1zYXRzLWFuZC1yb2NrZXRzLWFzLXN3ZWRlbi1sb29rcy10by1ib29zdC1zcGVuZGluZy1pdHMtdGFraW5nLWxlc3NvbnMtZnJvbS11a3JhaW5lL9IBhAFodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAyMi8xMi9kcm9uZXMtc2F0cy1hbmQtcm9ja2V0cy1hcy1zd2VkZW4tbG9va3MtdG8tYm9vc3Qtc3BlbmRpbmctaXRzLXRha2luZy1sZXNzb25zLWZyb20tdWtyYWluZS8_YW1wPTE?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Sweden boosts defense spending, NATO goal in mind",
+                    "article": "https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjIvMTEvMjIvc3dlZGVuLWJvb3N0cy1kZWZlbnNlLXNwZW5kaW5nLW5hdG8tZ29hbC1pbi1taW5kL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:07:04.919Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Switzerland",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/512px-Flag_of_Switzerland.svg.png",
+        "population": "8,659,156",
+        "nationalDebt": "$390,306,677,894",
+        "gdpGrossDomesticProduct": "$822,116,011,074",
+        "publicDebtToGdpRatio": "47.48%",
+        "externalDebtToGdpRatio": "239.24%",
+        "economicDescription": {
+            "country": "Switzerland",
+            "economicForecast": "GDP growth will slacken this year due to slower export growth and mild government consumption as pandemic-related spending demands ease. However, momentum should still be supported by a healthy labor market and the reduced impact of the pandemic. The Ukraine war and the gradual weakening of trade links with the EU in the absence of a revamped trade deal cloud the outlook. FocusEconomics Consensus Forecast panelists project the economy to expand 2.6% in 2022, which is unchanged from the previous month’s forecast, and 1.8% in 2023.",
+            "economicOutlook": "In Q1, the economy likely recorded a mild expansion that was broadly in line with the European average. The lifting of virtually all Covid-19 restrictions from mid-February should have aided domestic demand, offsetting a more adverse external panorama following the outbreak of the war in Ukraine. Looking at available indicators, the manufacturing PMI averaged slightly lower in Q1 than in Q4 and the KOF Barometer declined through March. In contrast, the services PMI averaged higher in Q1 as the impact of the pandemic faded. Turning to Q2, in April both the manufacturing and services PMIs fell to their lowest levels since early 2021. However, they continued to point to robust growth in the economy. Moreover, while inflation has picked up it remains the lowest in Western Europe, which should be supporting consumer spending.",
+            "timeStamp": "2022-12-20T02:08:26.100Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Switzerland",
+            "articles": [
+                {
+                    "articleTitle": "Switzerland – Economy to slow next year, but severe recession not ...",
+                    "article": "https://news.google.com/articles/CBMiiQFodHRwczovL3d3dzIuc3RhZmZpbmdpbmR1c3RyeS5jb20vZW5nJy9FZGl0b3JpYWwvRGFpbHktTmV3cy9Td2l0emVybGFuZC1FY29ub215LXRvLXNsb3ctbmV4dC15ZWFyLWJ1dC1zZXZlcmUtcmVjZXNzaW9uLW5vdC1leHBlY3RlZC02NDA0NNIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Switzerland – Economy to slow next year, but severe recession not ...",
+                    "article": "https://news.google.com/articles/CBMiiAFodHRwczovL3d3dzIuc3RhZmZpbmdpbmR1c3RyeS5jb20vZW5nL0VkaXRvcmlhbC9EYWlseS1OZXdzL1N3aXR6ZXJsYW5kLUVjb25vbXktdG8tc2xvdy1uZXh0LXllYXItYnV0LXNldmVyZS1yZWNlc3Npb24tbm90LWV4cGVjdGVkLTY0MDQ00gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "What Switzerland Can Teach The World About Innovation",
+                    "article": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZm9yYmVzdGVjaGNvdW5jaWwvMjAyMi8xMi8xOS93aGF0LXN3aXR6ZXJsYW5kLWNhbi10ZWFjaC10aGUtd29ybGQtYWJvdXQtaW5ub3ZhdGlvbi_SAXRodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2ZvcmJlc3RlY2hjb3VuY2lsLzIwMjIvMTIvMTkvd2hhdC1zd2l0emVybGFuZC1jYW4tdGVhY2gtdGhlLXdvcmxkLWFib3V0LWlubm92YXRpb24vYW1wLw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "China keeps key lending rates unchanged; Asia-Pacific markets mostly fall",
+                    "article": "https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTIvMjAvYXNpYS1wYWNpZmljLWJhbmstb2YtamFwYW4tZGVjaXNpb24uaHRtbNIBTGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzEyLzIwL2FzaWEtcGFjaWZpYy1iYW5rLW9mLWphcGFuLWRlY2lzaW9uLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Swiss central bank lifts interest rate by 50 basis points",
+                    "article": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2M4YzVmNTdjLWQwZTMtNDI4ZC05NmZkLWI5MDg3ZTIyYWI3ONIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Rise in Brits dropping out workforce puts UK fourth in global league table of economic inactivity",
+                    "article": "https://news.google.com/articles/CBMiiwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExNTUzNjg3L1Jpc2UtQnJpdHMtZHJvcHBpbmctd29ya2ZvcmNlLXB1dHMtVUstZm91cnRoLWdsb2JhbC1sZWFndWUtdGFibGUtZWNvbm9taWMtaW5hY3Rpdml0eS5odG1s0gGPAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE1NTM2ODcvYW1wL1Jpc2UtQnJpdHMtZHJvcHBpbmctd29ya2ZvcmNlLXB1dHMtVUstZm91cnRoLWdsb2JhbC1sZWFndWUtdGFibGUtZWNvbm9taWMtaW5hY3Rpdml0eS5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Free Economies Are Clean Without Subsidizing Renewables",
+                    "article": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3Lmhlcml0YWdlLm9yZy9lbnZpcm9ubWVudC9jb21tZW50YXJ5L2ZyZWUtZWNvbm9taWVzLWFyZS1jbGVhbi13aXRob3V0LXN1YnNpZGl6aW5nLXJlbmV3YWJsZXPSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Europe is Increasingly One Connected Knowledge Economy",
+                    "article": "https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld2dlb2dyYXBoeS5jb20vY29udGVudC8wMDc2NDEtZXVyb3BlLWluY3JlYXNpbmdseS1vbmUtY29ubmVjdGVkLWtub3dsZWRnZS1lY29ub2150gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Swiss Central Bank Sees 1,000-Franc Banknote (CHF) Circulation ...",
+                    "article": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE1L3NuYi1zZWVzLTEtMDAwLWZyYW5jLWJhbmtub3RlLWNpcmN1bGF0aW9uLXNsdW1wLWFzLXJhdGVzLXJpc2XSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Today in Switzerland: A roundup of the latest news on Wednesday",
+                    "article": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnRoZWxvY2FsLmNoLzIwMjIxMjE0L3RvZGF5LWluLXN3aXR6ZXJsYW5kLWEtcm91bmR1cC1vZi10aGUtbGF0ZXN0LW5ld3Mtb24td2VkbmVzZGF5LTY20gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:07:08.565Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Taiwan",
+        "countryFlag": "https://www.countryflags.com/wp-content/uploads/taiwan-flag-png-large.png",
+        "population": "23,821,535",
+        "nationalDebt": "$292,106,406,569",
+        "gdpGrossDomesticProduct": "$710,453,925,018",
+        "publicDebtToGdpRatio": "41.12%",
+        "externalDebtToGdpRatio": "30.11%",
+        "economicDescription": {
+            "country": "Taiwan",
+            "economicForecast": "Growth should be robust this year, thanks to the strong semiconductor industry and a tighter labor market. That said, the ongoing Covid-19 outbreak at home, higher interest rates and a weaker Chinese economy will take the edge off momentum. Rising cross-strait tensions and a potentially prolonged Chinese economic slowdown are risks. FocusEconomics panelists see GDP growing 3.5% in 2022, which is unchanged from last month’s forecast, and 3.0% in 2023.",
+            "economicOutlook": "ter growth moderated in Q1, underlying momentum is easing in Q2. Pandemic-related restrictions in China and generally less favorable global demand conditions are weighing on the external sector and manufacturing. In May, the manufacturing PMI tumbled to a near two-year low and export growth waned, while export orders fell in April. Moreover, the non-manufacturing index plunged into contractionary territory in May, as record Covid-19 cases led to greater caution among consumers and firms. However, the government’s pivot towards living with the virus will limit the fallout. Despite surging caseloads, travel restrictions are being progressively eased, with the quarantine time for visitors cut to three days in June. In other news, Taiwan and the U.S. recently launched a trade “initiative”, signaling warming ties with Washington. However, the shift falls far short of a comprehensive trade deal.",
+            "timeStamp": "2022-12-20T02:08:28.617Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Taiwan",
+            "articles": [
+                {
+                    "articleTitle": "The Global Economic Disruptions from a Taiwan Conflict",
+                    "article": "https://news.google.com/articles/CBMiNWh0dHBzOi8vcmhnLmNvbS9yZXNlYXJjaC90YWl3YW4tZWNvbm9taWMtZGlzcnVwdGlvbnMv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Taiwan Is Already Independent: Why Most of the Island's People ...",
+                    "article": "https://news.google.com/articles/CBMiQGh0dHBzOi8vd3d3LmZvcmVpZ25hZmZhaXJzLmNvbS90YWl3YW4vdGFpd2FuLWFscmVhZHktaW5kZXBlbmRlbnTSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Will the headwinds facing China force Xi to rethink his plans to take ...",
+                    "article": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmFzcGlzdHJhdGVnaXN0Lm9yZy5hdS93aWxsLXRoZS1oZWFkd2luZHMtZmFjaW5nLWNoaW5hLWZvcmNlLXhpLXRvLXJldGhpbmstaGlzLXBsYW5zLXRvLXRha2UtdGFpd2FuL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "The 2022 Third U.S.-Taiwan Economic Prosperity Partnership ...",
+                    "article": "https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnN0YXRlLmdvdi90aGUtMjAyMi10aGlyZC11LXMtdGFpd2FuLWVjb25vbWljLXByb3NwZXJpdHktcGFydG5lcnNoaXAtZGlhbG9ndWUv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Taiwan Cuts 2022 GDP Forecast Again as Global Economy Slows",
+                    "article": "https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTExLTI5L3RhaXdhbi1jdXRzLTIwMjItZ3Jvd3RoLWZvcmVjYXN0LWFnYWluLWFzLWdsb2JhbC1lY29ub215LXNsb3dz0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Taiwan: An Indian view",
+                    "article": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYmxvZy9vcmRlci1mcm9tLWNoYW9zLzIwMjIvMTIvMTYvdGFpd2FuLWFuLWluZGlhbi12aWV3L9IBVWh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYmxvZy9vcmRlci1mcm9tLWNoYW9zLzIwMjIvMTIvMTYvdGFpd2FuLWFuLWluZGlhbi12aWV3L2FtcC8?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Taiwan's military has a fertility problem: As China fears grow, its recruitment pool shrinks",
+                    "article": "https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMi8xMi8xNi9hc2lhL3RhaXdhbi1mZXJ0aWxpdHktcmF0ZS1zZWN1cml0eS1yaXNrLWludmFzaW9uLWludGwtaG5rL2luZGV4Lmh0bWzSAWhodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIyLzEyLzE2L2FzaWEvdGFpd2FuLWZlcnRpbGl0eS1yYXRlLXNlY3VyaXR5LXJpc2staW52YXNpb24taW50bC1obmsvaW5kZXguaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Taiwan to fine Foxconn for unauthorised China investment",
+                    "article": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZGVhbHMvZm94Y29ubi11bml0LXNlbGwtZW50aXJlLWVxdWl0eS1zdGFrZS10c2luZ2h1YS11bmlncm91cC0yMDIyLTEyLTE2L9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "German firms splash out billions in Taiwan trade for ‘stable supply chain’",
+                    "article": "https://news.google.com/articles/CBMilAFodHRwczovL3d3dy5zY21wLmNvbS9lY29ub215L2NoaW5hLWVjb25vbXkvYXJ0aWNsZS8zMjAzODYzL2dlcm1hbi1maXJtcy1zcGxhc2gtb3V0LWJpbGxpb25zLXRhaXdhbi1zdXBwbHktY2hhaW4tbGFyZ2VseS1zZW1pY29uZHVjdG9ycy1hbmQtY2hlbWljYWxz0gGUAWh0dHBzOi8vYW1wLnNjbXAuY29tL2Vjb25vbXkvY2hpbmEtZWNvbm9teS9hcnRpY2xlLzMyMDM4NjMvZ2VybWFuLWZpcm1zLXNwbGFzaC1vdXQtYmlsbGlvbnMtdGFpd2FuLXN1cHBseS1jaGFpbi1sYXJnZWx5LXNlbWljb25kdWN0b3JzLWFuZC1jaGVtaWNhbHM?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Wretched Year for Yen Set to Cut Wealth in Japan Below Neighbors",
+                    "article": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE2L2phcGFuLXNldC10by1zbGlwLWJlaGluZC10YWl3YW4tb24tZWNvbm9taWMtc3RyZW5ndGgtcGVyLXBlcnNvbtIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:07:11.105Z",
+            "tag": "news"
+        }
+    },
+    {
+        "country": "Turkey",
+        "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flag_of_the_President_of_Turkey.svg/220px-Flag_of_the_President_of_Turkey.svg.png",
+        "population": "82,520,906",
+        "nationalDebt": "$231,191,285,191",
+        "gdpGrossDomesticProduct": "$678,505,872,430",
+        "publicDebtToGdpRatio": "34.07%",
+        "externalDebtToGdpRatio": "78.81%",
+        "economicDescription": {
+            "country": "Turkey",
+            "economicForecast": "The economy will expand at a notably softer pace this year, as domestic demand is dented by pessimistic consumer sentiment, a weak currency and elevated inflation. Unorthodox economic and monetary policy measures pose further downside risks to the lira and the economy. However, a tighter labor market should provide some support. FocusEconomics Consensus Forecast panelists project the economy to expand 2.9% in 2022, which is unchanged from last month, and 3.3% in 2023.",
+            "economicOutlook": "st-quarter economic growth lost some steam due to softer expansions in household consumption, amid red-hot inflation and deeply pessimistic sentiment. Economic growth is set to moderate further in the second quarter amid the fallout from the war in Ukraine, even-higher inflation and a weakened currency. Consumer sentiment deteriorated in April–May against the backdrop of greater price pressures, which are eroding wage growth and eating into consumers’ pockets. The manufacturing PMI moved further into contractionary territory in the same two months due to protracted supply chain issues and exchange-rate weakness. More positively, business confidence rose in the same period on robust expectations. Meanwhile, President Erdogan vetoed Sweden and Finland’s late March requests to join NATO and seems intent on further delaying or preventing their accessions into the alliance.",
+            "timeStamp": "2022-12-20T02:08:31.221Z",
+            "tag": "Economic Input"
+        },
+        "articleSource": {
+            "country": "Turkey",
+            "articles": [
+                {
+                    "articleTitle": "POLL Turkey's economy grew 4% in Q3; 2022 growth seen at 5%",
+                    "article": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L3R1cmtleXMtZWNvbm9teS1ncmV3LTQtcTMtMjAyMi1ncm93dGgtc2Vlbi01LTIwMjItMTEtMjgv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Turkey’s economic growth slows to 3.9 pct in third quarter as foreign demand falls",
+                    "article": "https://news.google.com/articles/CBMijAFodHRwczovL2VuZ2xpc2guYWxhcmFiaXlhLm5ldC9idXNpbmVzcy9lY29ub215LzIwMjIvMTEvMzAvVHVya2V5LXMtZWNvbm9taWMtZ3Jvd3RoLXNsb3dzLXRvLTMtOS1wY3QtaW4tdGhpcmQtcXVhcnRlci1hcy1mb3JlaWduLWRlbWFuZC1mYWxsc9IBkAFodHRwczovL2VuZ2xpc2guYWxhcmFiaXlhLm5ldC9hbXAvYnVzaW5lc3MvZWNvbm9teS8yMDIyLzExLzMwL1R1cmtleS1zLWVjb25vbWljLWdyb3d0aC1zbG93cy10by0zLTktcGN0LWluLXRoaXJkLXF1YXJ0ZXItYXMtZm9yZWlnbi1kZW1hbmQtZmFsbHM?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Turkish Economy Stumbles, Risks Worse Pre-Election Downswing",
+                    "article": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTExLTMwL3R1cmtpc2gtaW5mbGF0aW9uLWNyaXNpcy1pcy10YWtpbmctYS1iaXRlLW91dC1vZi1lY29ub21pYy1ncm93dGjSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Turkey's economic growth loses steam as elections near",
+                    "article": "https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmFsLW1vbml0b3IuY29tL29yaWdpbmFscy8yMDIyLzEyL3R1cmtleXMtZWNvbm9taWMtZ3Jvd3RoLWxvc2VzLXN0ZWFtLWVsZWN0aW9ucy1uZWFy0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Turkey's Unsustainable Economic Model May Be Sustained for ...",
+                    "article": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3Lndzai5jb20vYXJ0aWNsZXMvdHVya2V5cy11bnN1c3RhaW5hYmxlLWVjb25vbWljLW1vZGVsLW1heS1iZS1zdXN0YWluZWQtZm9yLXF1aXRlLWEtd2hpbGUtMTE2NzA5NTM3MDfSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Opinion | Erdogan's latest move against Turkey's opposition is ...",
+                    "article": "https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDIyLzEyLzE5L2VyZG9nYW4taW1hbW9nbHUtZWxlY3Rpb25zLWhpZ2gtcmlzay_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "TC economy is far too exposed to and dependent on Turkey",
+                    "article": "https://news.google.com/articles/CBMiXGh0dHBzOi8vY3lwcnVzLW1haWwuY29tLzIwMjIvMTIvMTgvdGMtZWNvbm9teS1pcy1mYXItdG9vLWV4cG9zZWQtdG8tYW5kLWRlcGVuZGVudC1vbi10dXJrZXkv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "Turkey Is Strengthening Its Energy Ties With Russia",
+                    "article": "https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTIvMDkvYnVzaW5lc3MvdHVya2V5LWVyZG9nYW4tZW5lcmd5LXJ1c3NpYS5odG1s0gFRaHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyMi8xMi8wOS9idXNpbmVzcy90dXJrZXktZXJkb2dhbi1lbmVyZ3ktcnVzc2lhLmFtcC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "How the 20 year rule of Recep Tayyip Erdogan has transformed Turkey",
+                    "article": "https://news.google.com/articles/CBMiZmh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9ob3ctdGhlLTIwLXllYXItcnVsZS1vZi1yZWNlcC10YXl5aXAtZXJkb2dhbi1oYXMtdHJhbnNmb3JtZWQtdHVya2V5LTE4ODIxMdIBamh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9hbXAvaG93LXRoZS0yMC15ZWFyLXJ1bGUtb2YtcmVjZXAtdGF5eWlwLWVyZG9nYW4taGFzLXRyYW5zZm9ybWVkLXR1cmtleS0xODgyMTE?hl=en-US&gl=US&ceid=US%3Aen"
+                },
+                {
+                    "articleTitle": "These economies are booming as Putin's war drives migrants and money out of Russia",
+                    "article": "https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTEvMjUvZ2VvcmdpYS1hcm1lbmlhLXR1cmtleS1lY29ub21pZXMtYm9vbS13aXRoLXJ1c3NpYW4td2VhbHRoLW1pZ3JhdGlvbi5odG1s0gFsaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjIvMTEvMjUvZ2VvcmdpYS1hcm1lbmlhLXR1cmtleS1lY29ub21pZXMtYm9vbS13aXRoLXJ1c3NpYW4td2VhbHRoLW1pZ3JhdGlvbi5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+                }
+            ],
+            "timeStamp": "2022-12-20T02:07:14.595Z",
+            "tag": "news"
+        }
+    }
+]
