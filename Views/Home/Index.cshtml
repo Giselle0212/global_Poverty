@@ -1,16 +1,9 @@
-﻿<main>
-    <div class="d-flex mt-5 justify-content-center">
+﻿
+<main class="mt-5">
+    <div class="d-flex justify-content-center align-items-center gap-5 mb-5">
         <div class="d-flex justify-content-center align-items-center flex-column">
-            <p style="height: fit-content; width: fit-content; font-size: 100px;
-            color: white;font-family: system-ui,
-            Roboto, Cantarell, sans-serif; padding: 0; margin: 0; display:flex;">
-                Global
-            </p>
-            <p style=" height: fit-content; width: fit-content;font-size: 100px; 
-                color: white;font-family: 
-                system-ui, Roboto, Cantarell, sans-serif;
-                padding: 0; margin: 0; display:flex;">
-                Poverty</p>
+            <p class="p-0 m-0 text-white" style="line-height: 90px; font-size: 100px;">Global</p>
+            <p class="p-0 m-0 text-white" style=" line-height: 90px; font-size: 100px;">Poverty</p>
         </div>
         <div class="earth"></div>
     </div>
@@ -26,15 +19,24 @@
                 <div class="value-container">
                     <p class="valueData">
                         XXX.XXX.XXX
-                        </p>
+                    </p>
                 </div>
             </div>
             <div>
                 <h3 style="max-width:12em;">Peple in the world living in extreme poverty</h3>
             </div>
         </div>
-        @* <iframe id="style" title='People who died from hunger'
-            src='https://www.theworldcounts.com/embeds/counters/2?background'></iframe> *@
+        <div>
+            @* <iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" tabindex="-1" aria-hidden="true"
+                id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-5e66f98b4ee957db209dc6f63e3d59dd.html"
+                style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important;
+                pointer-events: none !important;"></iframe> *@
+            @* <iframe id="_hjSafeContext_16944363" title="_hjSafeContext" tabindex="-1" aria-hidden="true"
+                src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0
+                !important; pointer-events: none !important;"></iframe> *@
+        </div>
+        @* <iframe id="style" title='People who died from hunger' *@
+        @* src='https://www.theworldcounts.com/embeds/counters/2?background'></iframe> *@
         @* </div> *@
         <!--chart start-->
         <div>
@@ -45,20 +47,30 @@
                     <li><span>0%</span></li>
                 </ul>
                 <ul class="bars">
+                    <h5 class="text-center">List of countries without Healthcare</h5>
                     <li>
-                        <div class="bar" data-percentage="50"></div><span>Option 01</span>
+                        <div class="bar" data-percentage="50"></div><span>South Africa</span>
                     </li>
                     <li>
-                        <div class="bar" data-percentage="30"></div><span>Option 02</span>
+                        <div class="bar" data-percentage="30"></div><span> Iran</span>
                     </li>
                     <li>
-                        <div class="bar" data-percentage="60"></div><span>Option 03</span>
+                        <div class="bar" data-percentage="60"></div><span>Egypt</span>
                     </li>
                     <li>
-                        <div class="bar" data-percentage="100"></div><span>Option 04</span>
+                        <div class="bar" data-percentage="100"></div><span>Nigeria</span>
                     </li>
                     <li>
-                        <div class="bar" data-percentage="80"></div><span>Option 05</span>
+                        <div class="bar" data-percentage="80"></div><span>Pakistan</span>
+                    </li>
+                    <li>
+                        <div class="bar" data-percentage="80"></div><span>Afghanistan</span>
+                    </li>
+                    <li>
+                        <div class="bar" data-percentage="80"></div><span>Yemen</span>
+                    </li>
+                    <li>
+                        <div class="bar" data-percentage="80"></div><span>Syria</span>
                     </li>
                 </ul>
                 <div style="display: flex; justify-content:center; margin-top:3rem; gap:22px; align-self: center;">
@@ -87,9 +99,18 @@
                     children in the U.S.live in poverty</h6>
                 <!--chart end-->
             </div>
+        
         </div>
     </div>
     <div>
         <div>@await Html.PartialAsync("_map")</div>
     </div>
+    
+<script src="~/js/data.js"></script>
+
+<script>
+countriesLoop();
+
+</script>
+
 </main>
