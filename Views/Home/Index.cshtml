@@ -16,10 +16,9 @@
     </div>
     <div class="box-text">
         <h1 class="text-center">
-            hi
-            Lorem Ipsum is simply dummy text of the printing
-            and typesetting industry. Lorem Ipsum has been
-            type and scrambled it to make a type specimen book.</h1>
+            About 9.2% of the world, or 689 million people, 
+            live in extreme poverty on less than $1.90 a day, 
+            according to the World Bank.</h1>
     </div>
     <div class="d-flex justify-content-between mt-5">
         <div class="Card">
@@ -94,34 +93,70 @@
         <div>@await Html.PartialAsync("_map")</div>
     </div>
 
-    <h1 class="text-center" style="color: white;">Photo Gallery</h1>
+    <h1 class="text-center" style="color: white;">Gallery Facts</h1>
 
-    <div id="carouselExampleFade" class="carousel slide carousel-fade " data-bs-ride="carousel">
-        <div class="carousel-inner" >
-            <div class="carousel-item active d-flex justify-content-center" >
-                <img src="../img/bornintopoverty.jpeg" alt="pic" class="d-block w-50">
-            </div>
-            <div class="carousel-item d-flex justify-content-center">
-                <img src="../img/homeless.webp" alt="pic" class="d-block w-50">
-            </div>
-            <div class="carousel-item d-flex justify-content-center">
-                <img src="../img/people.png" alt="pic" class="d-block w-50">
-            </div>
-            <div class="carousel-item d-flex justify-content-center">
-                <img src="../img/kid.png" alt="pic" class="d-block w-50">
-            </div>
-            <div class="carousel-item d-flex justify-content-center">
-                <img src="../img/kids.png" alt="pic" class="d-block w-50">
+    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+    <div class="carousel-indicators">
+        <button  data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button  data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button  data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button  data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        <button  data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="../img/picone.jpg" class="d-block w-100" alt="picone">
+            <div class="carousel-caption d-none d-md-block">
+                <p style="background-color: black;">The international poverty line, currently set at $1.90 a day, 
+                is the universal standard for measuring global poverty. 
+                This line helps measure the number of people living in extreme poverty 
+                and helps compare poverty levels between countries.</p>
             </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-        </button>
+        <div class="carousel-item">
+            <img src="../img/pictwo.jpeg" class="d-block w-100" alt="pictwo">
+            <div class="carousel-caption d-none d-md-block">
+                <p style="background-color: black;">By 2030, an estimated 67% of the world’s poor will live in fragile contexts.
+                    About 70% of people older than 15 who live in extreme poverty have no
+                    schooling or only some basic education.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="../img/picthree.webp" class="d-block w-100" alt="picthree">
+            <div class="carousel-caption d-none d-md-block">
+                <p style="background-color: black;">In the United States, 10.5% of the population — 34 million people — live in poverty as of 2019. 
+                    For an individual in the U.S., the poverty line is $12,880 a year, or about 
+                    $35.28 per day..</p>
+            </div> 
+        </div>
+        <div class="carousel-item">
+            <img src="../img/picfour.jpg" class="d-block w-100" alt="picfour">
+            <div class="carousel-caption d-none d-md-block">
+                <p style="background-color: black;">The root causes of poverty aren’t only a lack of access to basic necessities of 
+                    life like water, food, shelter, education, or healthcare. Inequities including gender or ethnic 
+                    discrimination, poor governance, conflict, exploitation,
+                    and domestic violence also cause poverty</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="../img/picfive.jpg" class="d-block w-100" alt="picfive">
+            <div class="carousel-caption d-none d-md-block">
+                <p style="background-color: black;">AIDS, malaria, starvation, and 
+                    other deadly diseases are common. 
+                    Many children die before reaching adolescence, 
+                    and many adults die before reaching what in the richest 
+                    nations would be considered middle age.</p>
+            </div>
+        </div>
     </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
 
 </main>
